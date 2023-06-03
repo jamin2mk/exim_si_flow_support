@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="WINDOWS-1252"?><eclipse-userlibraries version="2">
+    <library name="SI_Library" systemlibrary="false">
+        <archive path="D:/ws/exim-si/exim_si_flow_support/SharedLibrary/commons-lang-2.6.jar"/>
+        <archive path="D:/ws/exim-si/exim_si_flow_support/SharedLibrary/gson-2.10.1.jar"/>
+        <archive path="D:/ws/exim-si/exim_si_flow_support/SharedLibrary/guava-20.0.jar"/>
+        <archive path="D:/ws/exim-si/exim_si_flow_support/SharedLibrary/ojdbc8-19.8.0.0.jar"/>
+    </library>
+</eclipse-userlibraries>

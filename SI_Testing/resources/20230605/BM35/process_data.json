@@ -1,0 +1,566 @@
+{
+        "data": {
+            "LOS_BPM_INFORMATION": {
+                "ROLE_BEFORE": "",
+                "REF_LOS_DOC": "",
+                "IS_ADJUST": 0,
+                "FUNCTION_BEFORE": "",
+                "DV_TAPTRUNG": 2,
+                "SLA": 120,
+                "DATE_CREATE_PROCESS": "2023-05-30T18:38:37.000+07:00",
+                "BRN_CODE_CREATE": "1208",
+                "STATUS_BEFORE_NAME": "Kiểm soát",
+                "ROLE_UPDATE_NAME": "Cán bộ Hỗ trợ tín dụng Đơn vị kinh doanh",
+                "TOTAL_TIME_HANDLE": 0,
+                "FULLNAME_BEFORE": "",
+                "STATUS_UPDATE": "STA05",
+                "ROLE_CREATED": "RM_R",
+                "USER_UPDATED": "BOM_DVKD_1208_01",
+                "TOTAL_TIME_COMPLETE": 1,
+                "REF_BOTT": "",
+                "TASK_NAME": "",
+                "WORKFLOW_TYPE": "DXGN_DVKD",
+                "LAST_APPROVAL_ROLE_NAME": "Cấp phê duyệt tại đơn vị kinh doanh - Giám đốc",
+                "TIME_RECEIVE_TASK": "2023-05-31T17:10:34.952+07:00",
+                "BPM_TASK_ID": "24438",
+                "APPROVED_ACTION": "",
+                "BRANCH_LEVEL": "",
+                "LAST_APPROVED": "CABRN1",
+                "COMMENT_TASK_DETAIL": "",
+                "TIME_HANDLE_TASK": "2023-05-30T18:42:08.000+07:00",
+                "USER_CREATED_BRANCH_CODE": "1208",
+                "SLA_COMPLETE_TASK": "2023-05-31T09:30:00.000+07:00",
+                "PROVINCE_CREATE": "",
+                "BPM_INSTANCE_ID": "10012",
+                "USER_BEFORE": "RM_R_1208_01",
+                "REF_DBM": "",
+                "COMMENT_TASK": "",
+                "ROLE_UPDATED": "BOM_DVKD",
+                "STATUS_BEFORE": "STA05",
+                "BRN_CODE": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+                "USRNAME_EXIM": "",
+                "DEPT_USER_CREATE_CODE": "",
+                "USER_CREATED": "RM_R_1208_01",
+                "FUNCTION_UPDATE": "INPUT",
+                "USER_CREATED_BRANCH_NAME": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+                "ROLE_BEFORE_NAME": "",
+                "USER_BEFORE_NAME": "Cán bộ Quan hệ khách hàng cá nhân",
+                "USER_CLAIM": "BOD_DVKD_1208_01",
+                "MASTER_PROCESS_TYPE": "DXGN",
+                "FULLNAME_UPDATED": "INPUT",
+                "USER_APPROVED_CODE": "",
+                "FLAG_ACTIVE": "",
+                "TIER_BRN_CREATE": "TIER05",
+                "USER_UPDATE_NAME": "Cán bộ Hỗ trợ tín dụng Đơn vị kinh doanh_01",
+                "CODE": "1208.GN.23.003331",
+                "ACTION": "AGREE",
+                "USER_APPROVED_NAME": "",
+                "STATUS_UPDATE_NAME": "Kiểm soát",
+                "WF_TYPE_NAME": "",
+                "DEPT_USER_CREATE_NAME": "",
+                "IS_COMPLETE": 0,
+                "FULLNAME_CREATED": "",
+                "DS_CB_XULY": [
+                    {
+                        "DEPT_CODE": "",
+                        "BRANCH_CODE": "1208",
+                        "STEP": 1,
+                        "ROLE_NAME": "Cán bộ Quan hệ khách hàng cá nhân",
+                        "USER_NAME": "RM_R_1208_01",
+                        "ROLE_CODE": "RM_R",
+                        "FULLNAME": "Cán bộ Quan hệ khách hàng cá nhân"
+                    }
+                ],
+                "TIME_COMPLETE_TASK": "2023-05-30T18:42:30.000+07:00"
+            },
+            "TT_HO_SO": {
+                "LOS_ECM_INFO": [],
+                "DS_HOSO": [
+                    {
+                        "STT": 0,
+                        "IREQUIRED": "",
+                        "GROUP_DOC_CODE": "LEGAL",
+                        "REQUIRED_TIMING": "",
+                        "GROUP_DOC_NAME": "Hồ sơ pháp lý",
+                        "NOTE": "",
+                        "ISFULL": 0
+                    },
+                    {
+                        "STT": 0,
+                        "IREQUIRED": "",
+                        "GROUP_DOC_CODE": "CREDIT",
+                        "REQUIRED_TIMING": "",
+                        "GROUP_DOC_NAME": "Hồ sơ cấp tín dụng",
+                        "NOTE": "",
+                        "ISFULL": 0
+                    },
+                    {
+                        "STT": 0,
+                        "IREQUIRED": "",
+                        "GROUP_DOC_CODE": "FINANCE",
+                        "REQUIRED_TIMING": "",
+                        "GROUP_DOC_NAME": "Hồ sơ tài chính",
+                        "NOTE": "",
+                        "ISFULL": 0
+                    },
+                    {
+                        "STT": 0,
+                        "IREQUIRED": "",
+                        "GROUP_DOC_CODE": "COLLATERAL",
+                        "REQUIRED_TIMING": "",
+                        "GROUP_DOC_NAME": "Hồ sơ TSBĐ",
+                        "NOTE": "",
+                        "ISFULL": 0
+                    },
+                    {
+                        "STT": 0,
+                        "IREQUIRED": "",
+                        "GROUP_DOC_CODE": "DISBURSEMENT",
+                        "REQUIRED_TIMING": "",
+                        "GROUP_DOC_NAME": "Hồ sơ giải ngân",
+                        "NOTE": "",
+                        "ISFULL": 0
+                    },
+                    {
+                        "STT": 0,
+                        "IREQUIRED": "",
+                        "GROUP_DOC_CODE": "OTHER",
+                        "REQUIRED_TIMING": "",
+                        "GROUP_DOC_NAME": "Hồ sơ khác",
+                        "NOTE": "",
+                        "ISFULL": 0
+                    }
+                ]
+            },
+            "KETQUA_RULE": {
+                "KETQUA_AM": "{\"approval\":\"CABRN1\",\"workflowType\":\"DXGN_DVKD\"}",
+                "KETQUA_ROUTING": "[{\"step\":1,\"lane\":\"INPUT\",\"role\":\"RM_R\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":2,\"lane\":\"REVIEW\",\"role\":\"RMTL2_R\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":3,\"lane\":\"REVIEW\",\"role\":\"BOD_DVKD\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":4,\"lane\":\"INPUT\",\"role\":\"BOM_DVKD\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":5,\"lane\":\"REVIEW\",\"role\":\"BOC1_DVKD\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":6,\"lane\":\"REVIEW\",\"role\":\"CABRN1\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":7,\"lane\":\"INPUT\",\"role\":\"RM_R\",\"skipStep\":2,\"isSameBrn\":1}]"
+            },
+            "TT_DEXUAT": {
+                "CIF": "120181160",
+                "MUCDO_UUTIEN": "2",
+                "DS_YCAU_GN": [
+                    {
+                        "CTU_BSUNG": 0,
+                        "ID_YCGN": "GN1685446796341",
+                        "KYTRALAI": "1",
+                        "SOTIEN_TRAMOIKY": 0,
+                        "LOAI_PHAT_TRANO_TRCHAN": "",
+                        "TG_ANHAN": "",
+                        "LS_CHOVAY": "Theo quy định của Eximbank",
+                        "PHI": "",
+                        "MUCPHI_PHAT": 0,
+                        "CTIET_CTU_BSUNG": "",
+                        "SOTIEN_GN_TIENMAT": 50000000,
+                        "PT_GIAINGAN_TM": 1,
+                        "PHUONGTHUC_PHAT": "",
+                        "DS_CHUYENKHOAN": [
+                            {
+                                "PHUONGTHUC": "PTCK01",
+                                "STK_THU_HUONG": "111111",
+                                "LOAITIEN": "",
+                                "TCTD": "TCTD009",
+                                "SOTIEN": 0,
+                                "TENTHUHUONG": "anhlt01",
+                                "SOTIEN_VND": 10000000
+                            },
+                            {
+                                "PHUONGTHUC": "PTCK02",
+                                "STK_THU_HUONG": "1111112",
+                                "LOAITIEN": "",
+                                "TCTD": "TCTD015",
+                                "SOTIEN": 0,
+                                "TENTHUHUONG": "aaa",
+                                "SOTIEN_VND": 40000000
+                            }
+                        ],
+                        "KYTRANO_DAUTIEN": "2023-05-31T00:00:00.000+07:00",
+                        "SANPHAM": "03",
+                        "NGAYTRANO_LAI_DAY": 1,
+                        "TGIAN_BATDAUVAY": "2023-06-01T00:00:00.000+07:00",
+                        "PT_GIAINGAN_CK": 1,
+                        "MUCDICH_GN": "aaa",
+                        "CTU_DACAP": 0,
+                        "THU_PHI": "",
+                        "CTIET_CTU_DACAP": "",
+                        "TYGIA": 1,
+                        "TTHAN_CHOVAY_NGAY": 10,
+                        "KY_TNGOC": "1",
+                        "DINHKY_TNO": 10,
+                        "PHAT_TRANO_TRUOCHAN": 0,
+                        "LOAITIEN": "VND",
+                        "DK_KHAC": "",
+                        "SOTIEN_GN": 100000000,
+                        "SOTIEN_QUYDOI": 100000000,
+                        "TG_CHOVAY_THANG": 10,
+                        "DK_NGOAILE": ""
+                    }
+                ],
+                "DGIA_HDONG_CAMKET_KH": {
+                    "MUA_BH_TSBD": "1",
+                    "TT_PHATSINH_BIENDONG": "",
+                    "NHANXET_DXGN": "1",
+                    "KIEMTRA_CTD": "1",
+                    "TT_NHANXET_DXGN": "",
+                    "TT_BH_TSBD": "",
+                    "TT_KIEMTRA": "",
+                    "TT_DINHGIA_TSBD": "",
+                    "DINHGIA_TSBD": "1",
+                    "TT_NHANXET_RM_RBO": "",
+                    "CHUYENDONGTIEN_EIB": "1",
+                    "DEXUAT_RM_RBO": "1",
+                    "TT_CHUYENDONGTIEN_EIB": "",
+                    "NO_NHOMCAO": "1",
+                    "TT_CAMKET": "",
+                    "TT_NHOMNOCAO": "",
+                    "NGUONTHU_TRANO": "1",
+                    "CAMKET_THOATHUAN": "1"
+                },
+                "LOAI_KH": "CN",
+                "NGAY_HIEULUC": "2022-03-16T00:00:00.000+07:00",
+                "DS_YCAU_BAOLANH": [],
+                "DVKD_KYHD": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+                "TEN_KH_CORE": "HO THI NGOC SUONG",
+                "DS_YCAU_LC": [],
+                "CUSTOMER_IDENTITY": "052181016706",
+                "TEN_KH": "",
+                "CUSTOMER_CODE": "CF0002948",
+                "HTHUC_PHEDUYET": "2",
+                "TONG_SOTIEN_DXUAT": 100000000,
+                "DS_YCAU_CHIETKHAU": [],
+                "SO_HDTD": "1208LAV220020622",
+                "YC_HONPHOI_KY": 0
+            },
+            "DEXUAT_STHAO_GN": {
+                "IS_LC": 0,
+                "IS_BAOLANH": 0,
+                "IS_CHIETKHAU": 0,
+                "IS_GIAINGAN": 1
+            },
+            "YKIEN_KSOAT_PDUYET": [],
+            "TT_BAO_CAO": {
+                "TT_CTD_KH": {
+                    "DAIDIEN_KH": "",
+                    "CIF": "120181160",
+                    "SDT": "0989319630",
+                    "TT_DINHDANH": [
+                        {
+                            "LOAI_ID": "THECCCD",
+                            "QG_CAP": "VNM",
+                            "NGAY_CAP": "2021-12-08T00:00:00.000+07:00",
+                            "SO_ID": "052181016706",
+                            "NOI_CAP": "NCID343"
+                        }
+                    ],
+                    "CHUC_VU": "",
+                    "MA_DN": "",
+                    "BEN_UY_QUYEN": 0,
+                    "NGAYCAP": "2021-12-08T00:00:00.000+07:00",
+                    "ONG_BA": "BA",
+                    "LOAI_KH": "",
+                    "NGDAIDIEN_KYHD": "",
+                    "DIACHI_TRUSO": "",
+                    "TT_LIENLAC": [
+                        {
+                            "DIA_CHI_CUTHE": "395 NGUYEN VAN CU,TP BMT,.",
+                            "QUOC_GIA": "VNM",
+                            "TINH_TP": "66",
+                            "LOAI_DIA_CHI": "DCLIENHE"
+                        },
+                        {
+                            "DIA_CHI_CUTHE": "395 NGUYEN VAN CU,TP BMT,.",
+                            "QUOC_GIA": "VNM",
+                            "TINH_TP": "66",
+                            "LOAI_DIA_CHI": "HKTHUONGTRU"
+                        }
+                    ],
+                    "CT_UY_QUYEN": "Do Ông/ Bà ......, căn cước công dân số ...... cấp tại ...... (chứng minh nhân dân cũ số ...... cấp tại ......) đại diện cho Ông/ Bà ......, chứng minh nhân dân số ...... cấp tại ...... và Ông/ Bà ......, chứng minh nhân dân số ...... cấp tại ...... theo Hợp đồng ủy quyền được công chứng tại Văn phòng Công chứng ..., Thành phố Hà Nội ngày ..., số công chứng ... và được công chứng tại Văn phòng Công chứng ..., TP Hồ Chí Minh ngày ..., số công chứng .... Ông/ Bà ...... cam kết Hợp đồng ủy quyền này chưa chấm dứt theo quy định của pháp luật, nếu sau này phát hiện sai hoặc có tranh chấp, khiếu nại bà xin chịu trách nhiệm.",
+                    "TEN_KH_CODAU": "HO THI NGOC SUONG",
+                    "TEN_KH_CORE": "HO THI NGOC SUONG",
+                    "TT_VC_KH": {
+                        "CIF": "",
+                        "BEN_UQ": 0,
+                        "CT_YQ": "",
+                        "TEN_KH_CODAU": "",
+                        "SDT": "",
+                        "TT_DIACHI": [
+                            {
+                                "DIA_CHI_CUTHE": "",
+                                "QUOC_GIA": "VNM",
+                                "QUAN_HUYEN": "",
+                                "XA_PHUONG": "",
+                                "TINH_TP": "",
+                                "LOAI_DIA_CHI": "HKTHUONGTRU"
+                            },
+                            {
+                                "DIA_CHI_CUTHE": "",
+                                "QUOC_GIA": "VNM",
+                                "QUAN_HUYEN": "",
+                                "XA_PHUONG": "",
+                                "TINH_TP": "",
+                                "LOAI_DIA_CHI": "DCLIENHE"
+                            }
+                        ],
+                        "TEN_KH_CORE": "",
+                        "TT_DINHDANH": [
+                            {
+                                "LOAI_ID": "CMND",
+                                "QG_CAP": "VNM"
+                            }
+                        ],
+                        "ONG_BA": ""
+                    },
+                    "CUSTOMER_CODE": "",
+                    "NGAY_SINH": "1982-06-07T00:00:00.000+07:00",
+                    "NOI_CAP": "NCID343"
+                },
+                "TT_YC_BAOLANH": [],
+                "TT_YC_THU_TINDUNG": [],
+                "LUONG_NTIEP": {
+                    "XUAT_MUON": 0,
+                    "XUAT_TRA": 0,
+                    "NHAP_KHO": 0,
+                    "YC_KHAC": 0,
+                    "DX_GIAINGAN": 0,
+                    "YC_SOANTHAO": 0
+                },
+                "TT_YC_CHIETKHAU": [],
+                "TT_DANHGIA_HDONG": {
+                    "CTIET_DK_KHAC": "",
+                    "DK_TRC_GN": "1",
+                    "MUA_BHIEM": "1",
+                    "LS_TRANO": "1",
+                    "DGIA_TSBD": "1",
+                    "KL_BBKIEM_TRA": "",
+                    "DK_KHAC": "1",
+                    "NDUNG_KHAC": ""
+                },
+                "TT_YC_GIAINGAN": [
+                    {
+                        "THOIGIAN_CODINH": 321,
+                        "TG_CHOVAY_NGAY": 10,
+                        "LOAI_TIEN": "VND",
+                        "TY_GIA": 1,
+                        "KYHAN_TRALAI": "1",
+                        "DEN_NGAY": "2023-05-18T00:00:00.000+07:00",
+                        "SAN_PHAM_CTD": "03",
+                        "TT_TIENGUI": [],
+                        "SOTIEN_GN_TIENMAT": 50000000,
+                        "NGTAC_DIEUCHINH_LS": "2",
+                        "SOTIEN_CTD_QUYDOI": 100000000,
+                        "DS_CODE_MUCDICH": [
+                            {
+                                "TEN_CODE_CAP6": "KKDSK",
+                                "TEN_CODE_CAP3": "9W10099",
+                                "TEN_CODE_CAP2": "9W100",
+                                "TEN_CODE_CAP5": "K909000",
+                                "TEN_CODE_CAP4": "K909",
+                                "TEN_CODE_CAP1": "KY"
+                            }
+                        ],
+                        "THOIGIAN_AN_HAN": "",
+                        "CHITIET_CT_CUNGCAP": "",
+                        "CT_BOSUNG": 0,
+                        "PHUTHUC_GN_TM": 1,
+                        "SOTIEN_GN": 100000000,
+                        "KY_TRAGOC_DAUTIEN": "2023-05-31T00:00:00.000+07:00",
+                        "DCHINH_LS_CHOVAY": 1,
+                        "DINHKY_TRANO_GOC": 10,
+                        "CHUKY_TD_LSUAT": "2",
+                        "TT_VANG": [],
+                        "TT_TAISAN_KHAC": [],
+                        "DINHKY_THAYDOI_LS": 231,
+                        "LS_CHOVAY": "Theo quy định của Eximbank",
+                        "PHI": "",
+                        "PHATTRUOC_HAN": 0,
+                        "KYHAN_TRANO_GOC": "1",
+                        "TU_NGAY": "2023-06-01T00:00:00.000+07:00",
+                        "DS_DANHGIA": [
+                            {
+                                "STT": "1",
+                                "MA_NOI_DUNG": "BO_DGIA01",
+                                "DANH_GIA": "1",
+                                "TEN_NOI_DUNG": "Số tiền giải ngân "
+                            },
+                            {
+                                "STT": "2",
+                                "MA_NOI_DUNG": "BO_DGIA02",
+                                "DANH_GIA": "1",
+                                "TEN_NOI_DUNG": "Loại tiền giải ngân\t"
+                            },
+                            {
+                                "STT": "3",
+                                "MA_NOI_DUNG": "BO_DGIA03",
+                                "DANH_GIA": "1",
+                                "TEN_NOI_DUNG": "Mục đích giải ngân\t"
+                            },
+                            {
+                                "STT": "4",
+                                "MA_NOI_DUNG": "BO_DGIA04",
+                                "DANH_GIA": "1",
+                                "TEN_NOI_DUNG": "Chứng từ, chứng minh mục đích "
+                            },
+                            {
+                                "STT": "5",
+                                "MA_NOI_DUNG": "BO_DGIA05",
+                                "DANH_GIA": "1",
+                                "TEN_NOI_DUNG": "Phương thức giải ngân "
+                            },
+                            {
+                                "STT": "6",
+                                "MA_NOI_DUNG": "BO_DGIA06",
+                                "DANH_GIA": "1",
+                                "TEN_NOI_DUNG": "Thời gian vay\t"
+                            },
+                            {
+                                "STT": "7",
+                                "MA_NOI_DUNG": "BO_DGIA07",
+                                "DANH_GIA": "1",
+                                "TEN_NOI_DUNG": "Thời gian ân hạn\t"
+                            },
+                            {
+                                "STT": "8",
+                                "MA_NOI_DUNG": "BO_DGIA08",
+                                "DANH_GIA": "1",
+                                "TEN_NOI_DUNG": "Kỳ hạn trả nợ gốc\t"
+                            },
+                            {
+                                "STT": "9",
+                                "MA_NOI_DUNG": "BO_DGIA09",
+                                "DANH_GIA": "1",
+                                "TEN_NOI_DUNG": "Kỳ hạn trả lãi\t"
+                            },
+                            {
+                                "STT": "10",
+                                "MA_NOI_DUNG": "BO_DGIA10",
+                                "DANH_GIA": "1",
+                                "TEN_NOI_DUNG": "Lãi suất "
+                            },
+                            {
+                                "STT": "11",
+                                "MA_NOI_DUNG": "BO_DGIA11",
+                                "DANH_GIA": "1",
+                                "TEN_NOI_DUNG": "Phí "
+                            },
+                            {
+                                "STT": "12",
+                                "MA_NOI_DUNG": "BO_DGIA12",
+                                "DANH_GIA": "1",
+                                "TEN_NOI_DUNG": "Các điều kiện khác\t"
+                            },
+                            {
+                                "STT": "13",
+                                "MA_NOI_DUNG": "BO_DGIA13",
+                                "DANH_GIA": "1",
+                                "TEN_NOI_DUNG": "Các điều kiện ngoại lệ (nếu có)\t"
+                            }
+                        ],
+                        "DS_PHUONGTHUC_GN": [
+                            {
+                                "TEN_NG_THUHUONG": "anhlt01",
+                                "STK_THUHUONG": "111111",
+                                "SOTIEN": 10000000,
+                                "TAI_TCTD": "TCTD009",
+                                "TEN_PHUONGTHUC": "PTCK01"
+                            },
+                            {
+                                "TEN_NG_THUHUONG": "aaa",
+                                "STK_THUHUONG": "1111112",
+                                "SOTIEN": 40000000,
+                                "TAI_TCTD": "TCTD015",
+                                "TEN_PHUONGTHUC": "PTCK02"
+                            }
+                        ],
+                        "NGAYTRANO_LAI_DAY": 1,
+                        "PHTHUC_GN_CK": 1,
+                        "CHITIET_CT_BOSUNG": "",
+                        "YC_KHAC": "",
+                        "MUCDICH_GN": "aaa",
+                        "CT_DA_CUNGCAP": 0,
+                        "ID_YEUCAU_GN": "GN1685446796341",
+                        "SOTIEN_TRAGOC_HANGKY": 0,
+                        "TG_CHOVAY_THANG": 10
+                    }
+                ],
+                "TT_HD": {
+                    "SO_TIEN_CTD": 1500000000,
+                    "TEN_HD_CHITIET": "",
+                    "TINHHINH_SDVON": [],
+                    "TONG_DUNO": 0,
+                    "NHOM_NO": "",
+                    "SOTIEN_GN_CONLAI": 0,
+                    "BIENPHAP_BAODAM": [],
+                    "SO_LVA": "1208LAV220020622",
+                    "TONG_QUYDOI": 0,
+                    "THOIHAN_GN_TUNGLAN": 0,
+                    "MUCDICH_VAY": "",
+                    "CAP_PHEDUYET": "GĐ CẤP CAO/ GIÁM ĐỐC KHU VỰC",
+                    "DK_TRUOC_GN": "",
+                    "HM_TINDUNG": [],
+                    "LOAI_TIEN_HD": "VND",
+                    "THONGBAO_PHEDUYET": "",
+                    "TONG_SOTIEN_GN": 0,
+                    "PHUONGTHUC_CTD": "HANMUC",
+                    "THOIHAN_VAY": 0
+                },
+                "TAISAN_BAODAM": {
+                    "TINHTRANG_PHONGTOA": "",
+                    "SOTIEN_KYQUY": 0,
+                    "TT_TIENGUI": [],
+                    "TEN_TOCHUC": "",
+                    "TT_VANG": [],
+                    "TYLE_KYQUY": "",
+                    "SO_TAIKHOAN": "",
+                    "SOTIEN": 0,
+                    "TT_TAISAN_KHAC": []
+                }
+            }
+        },
+        "env": {
+            "GENDOC_URL": "http://10.1.45.79:9000/api/documentExport"
+        },
+        "userInfo": {
+            "teamName": "",
+            "deptName": "",
+            "dept_type_code": "",
+            "limit_code": "GROUP05",
+            "certificate": "",
+            "otherUnitCode": 0,
+            "title": "",
+            "userCode": "BOM_DVKD_1208_01",
+            "unitType": "",
+            "tier": "TIER05",
+            "dept_type_name": "",
+            "unitCode": 0,
+            "limit": 0,
+            "id": 9755,
+            "certificateBy": "",
+            "title_name": "",
+            "MaDoanhNghiep": "0301179079-022",
+            "powerAttorney": "",
+            "email": "khuongn@hpt.vn",
+            "groupCode": "GR_BOM_DVKD_1208",
+            "branchId": 0,
+            "unitName": "",
+            "keyLevel": 0,
+            "branchName": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+            "fullName": "Cán bộ Hỗ trợ tín dụng Đơn vị kinh doanh_01",
+            "role_code": "BOM_DVKD",
+            "bo_tt": "2",
+            "userName": "BOM_DVKD_1208_01",
+            "branch_Level": "PGD",
+            "NoiCap": "Sở KH & ĐT tỉnh Đắk Lắk",
+            "branchCode": "1208",
+            "role_name": "Cán bộ Hỗ trợ tín dụng Đơn vị kinh doanh",
+            "title_code": "",
+            "bds": "",
+            "op1": "",
+            "phone": "02623934545",
+            "fullAddress": "114-116 Phan Bội Châu, P.Thống Nhất, Tp.Buôn Ma Thuột, tỉnh Đăklăk / T.Đắk Lắk / P.Tân Lập / P.Tân Lập",
+            "NgayCap": "2020-07-15T00:00:00.000+07:00",
+            "PROVINCE": "66",
+            "position": "",
+            "representativeName": "",
+            "deptCode": ""
+        }
+    }

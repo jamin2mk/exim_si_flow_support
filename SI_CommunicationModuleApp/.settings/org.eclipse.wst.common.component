@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SI_CommunicationModuleApp">
+        <wb-resource deploy-path="/" source-path="/EarContent"/>
+        <dependent-module archiveName="SI_CommunicationModule.jar" deploy-path="/" handle="module:/resource/SI_CommunicationModule/SI_CommunicationModule">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="SI_CommunicationModuleWeb.war" deploy-path="/" handle="module:/resource/SI_CommunicationModuleWeb/SI_CommunicationModuleWeb">
+            <dependent-object>WebModule_1169158408425</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="SI_FLOW_SUPPORT_Library.jar" deploy-path="/" handle="module:/resource/SI_FLOW_SUPPORT_Library/SI_FLOW_SUPPORT_Library">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="SI_BasicComponent.jar" deploy-path="/" handle="module:/resource/SI_BasicComponent/SI_BasicComponent">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Module_Service_Communication.jar" deploy-path="/" handle="module:/resource/Module_Service_Communication/Module_Service_Communication">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="SI_AutoMapping.jar" deploy-path="/" handle="module:/resource/SI_AutoMapping/SI_AutoMapping">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

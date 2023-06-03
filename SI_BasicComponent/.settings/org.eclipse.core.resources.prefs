@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/si/consts/Message.java=UTF-8
+encoding//src/com/si/helper/MoneyHelper.java=UTF-8
+encoding//src/com/si/pre/SIPre.java=UTF-8
+encoding//src/com/si/service/invoke/impl/CoreBankingInvoker.java=UTF-8
+encoding//src/com/si/service/invoke/impl/GenDocInvoker.java=UTF-8
+encoding//src/com/si/util/SEmail.java=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: Module_Service_DB.jar 
+ Module_Service_CoreBanking.jar 
+ SI_FLOW_SUPPORT_Library.jar 
+ SI_BasicComponent.jar 
+ SI_AutoMapping.jar
+Created-By: 1.5.0 (IBM Corporation)
+

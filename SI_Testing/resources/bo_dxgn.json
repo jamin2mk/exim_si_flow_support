@@ -1,0 +1,1125 @@
+{
+ "data":{
+     "LOS_BPM_INFORMATION": {
+    "ROLE_BEFORE": "",
+    "REF_LOS_DOC": "",
+    "IS_ADJUST": 0,
+    "FUNCTION_BEFORE": "",
+    "DV_TAPTRUNG": 2,
+    "DATE_CREATE_PROCESS": null,
+    "BRN_CODE_CREATE": "1208",
+    "STATUS_BEFORE_NAME": "",
+    "ROLE_UPDATE_NAME": "Kiểm soát Phòng kinh doanh cá nhân - Lãnh đạo phòng",
+    "FULLNAME_BEFORE": "INPUT",
+    "STATUS_UPDATE": "STA05",
+    "ROLE_CREATED": "RM_R",
+    "USER_UPDATED": "",
+    "TOTAL_TIME_COMPLETE": 0,
+    "REF_BOTT": "",
+    "TASK_NAME": "",
+    "WORKFLOW_TYPE": "DXGN_DVKD",
+    "LAST_APPROVAL_ROLE_NAME": "Cấp phê duyệt tại đơn vị kinh doanh - Giám đốc",
+    "TIME_RECEIVE_TASK": "2023-04-14T10:19:11.807+07:00",
+    "BPM_TASK_ID": "9500",
+    "APPROVED_ACTION": "",
+    "BRANCH_LEVEL": "",
+    "LAST_APPROVED": "CABRN1",
+    "TIME_PENDING": null,
+    "TIME_HANDLE_TASK": "2023-04-14T10:19:11.807+07:00",
+    "USER_CREATED_BRANCH_CODE": "1208",
+    "PROVINCE_CREATE": "",
+    "BPM_INSTANCE_ID": "",
+    "USER_BEFORE": "",
+    "DATE_APPROVED": null,
+    "REF_DBM": "",
+    "ROLE_UPDATED": "RMTL2_R",
+    "STATUS_BEFORE": "STA03",
+    "TIME_ACTIVE": null,
+    "BRN_CODE": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+    "USRNAME_EXIM": "",
+    "DEPT_USER_CREATE_CODE": "",
+    "USER_CREATED": "RM_R_1208_01",
+    "FUNCTION_UPDATE": "REVIEW",
+    "USER_CREATED_BRANCH_NAME": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+    "ROLE_BEFORE_NAME": "",
+    "USER_BEFORE_NAME": "",
+    "USER_CLAIM": "",
+    "MASTER_PROCESS_TYPE": "",
+    "FULLNAME_UPDATED": "INPUT",
+    "DATE_COMPLETE_PROCESS": null,
+    "TOTAL_TIME_HADLE": 0,
+    "USER_APPROVED_CODE": "",
+    "FLAG_ACTIVE": "",
+    "TIER_BRN_CREATE": "TIER05",
+    "USER_UPDATE_NAME": "",
+    "CODE": "TEST",
+    "ACTION": "SUBMIT",
+    "USER_APPROVED_NAME": "",
+    "STATUS_UPDATE_NAME": "Kiểm soát",
+    "DEPT_USER_CREATE_NAME": "",
+    "IS_COMPLETE": 0,
+    "FULLNAME_CREATED": "",
+    "DS_CB_XULY": [
+      {
+        "DEPT_CODE": "",
+        "BRANCH_CODE": "1208",
+        "STEP": 1,
+        "ROLE_NAME": "Cán bộ Quan hệ khách hàng cá nhân",
+        "USER_NAME": "RM_R_1208_01",
+        "ROLE_CODE": "RM_R",
+        "FULLNAME": "Cán bộ Quan hệ khách hàng cá nhân"
+      }
+    ],
+    "TIME_COMPLETE_TASK": "2023-04-14T10:19:11.807+07:00"
+  },
+  "TT_HO_SO": {
+    "LOS_ECM_INFO": [
+      {
+        "iUpdate": null,
+        "code": null,
+        "ecmDocumentOption": {
+          "parentFolderPath": "/EXIM/KH_CN/GROUP_CF_LEVEL_1_0-500000/GROUP_CF_LEVEL_2_0-5000/GROUP_CF_LEVEL_3_2751-2800/CF0002771/LEGAL",
+          "cmisQuery": "SELECT cmis:contentStreamFileName, cmis:objectId,docType , cmis:lastModificationDate ,User_Update  FROM LEGAL where DocCode='1208.GN.23.001087'"
+        },
+        "label": "Hồ sơ pháp lý",
+        "object_Type": null,
+        "ECM_defaultProperties": [
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "AppID",
+            "value": "BOTT"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "AppVer",
+            "value": "BOTT_v1,0"
+          },
+          { "hidden": true, "editable": false, "name": "DocName", "value": "" },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "DocCode",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "ProcessCode",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "cmis:name",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "User_Create",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "User_Update",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "DocumentTitle",
+            "value": "Hồ sơ khác"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "Description",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "IsReserved",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustomerName",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "IdentityNum",
+            "value": "CF0002771"
+          },
+          { "hidden": true, "editable": false, "name": "isDrafts", "value": 1 },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustCode",
+            "value": "CF0002771"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustName",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CIF",
+            "value": "106058979"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "Type",
+            "value": "OTHER"
+          }
+        ],
+        "iCreate": null,
+        "iDelete": null
+      },
+      {
+        "iUpdate": null,
+        "code": null,
+        "ecmDocumentOption": {
+          "parentFolderPath": "/EXIM/KH_CN/GROUP_CF_LEVEL_1_0-500000/GROUP_CF_LEVEL_2_0-5000/GROUP_CF_LEVEL_3_2751-2800/CF0002771/CREDIT",
+          "cmisQuery": "SELECT cmis:contentStreamFileName, cmis:objectId,docType , cmis:lastModificationDate , User_Update FROM CREDIT where DocCode='1208.GN.23.001087'"
+        },
+        "label": "Hồ sơ cấp tín dụng",
+        "object_Type": null,
+        "ECM_defaultProperties": [
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "AppID",
+            "value": "BOTT"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "AppVer",
+            "value": "BOTT_v1,0"
+          },
+          { "hidden": true, "editable": false, "name": "DocName", "value": "" },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "DocCode",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "ProcessCode",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "cmis:name",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "User_Create",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "User_Update",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "DocumentTitle",
+            "value": "Hồ sơ khác"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "Description",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "IsReserved",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustomerName",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "IdentityNum",
+            "value": "CF0002771"
+          },
+          { "hidden": true, "editable": false, "name": "isDrafts", "value": 1 },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustCode",
+            "value": "CF0002771"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustName",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CIF",
+            "value": "106058979"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "Type",
+            "value": "OTHER"
+          }
+        ],
+        "iCreate": null,
+        "iDelete": null
+      },
+      {
+        "iUpdate": null,
+        "code": null,
+        "ecmDocumentOption": {
+          "parentFolderPath": "/EXIM/KH_CN/GROUP_CF_LEVEL_1_0-500000/GROUP_CF_LEVEL_2_0-5000/GROUP_CF_LEVEL_3_2751-2800/CF0002771/FINANCE",
+          "cmisQuery": "select cmis:contentStreamFileName, cmis:objectId,docType , cmis:lastModificationDate , User_Update FROM FINANCE where DocCode='1208.GN.23.001087'"
+        },
+        "label": "Hồ sơ tài chính",
+        "object_Type": null,
+        "ECM_defaultProperties": [
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "AppID",
+            "value": "BOTT"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "AppVer",
+            "value": "BOTT_v1,0"
+          },
+          { "hidden": true, "editable": false, "name": "DocName", "value": "" },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "DocCode",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "ProcessCode",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "cmis:name",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "User_Create",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "User_Update",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "DocumentTitle",
+            "value": "Hồ sơ khác"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "Description",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "IsReserved",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustomerName",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "IdentityNum",
+            "value": "CF0002771"
+          },
+          { "hidden": true, "editable": false, "name": "isDrafts", "value": 1 },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustCode",
+            "value": "CF0002771"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustName",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CIF",
+            "value": "106058979"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "Type",
+            "value": "OTHER"
+          }
+        ],
+        "iCreate": null,
+        "iDelete": null
+      },
+      {
+        "iUpdate": null,
+        "code": null,
+        "ecmDocumentOption": {
+          "parentFolderPath": "/EXIM/KH_CN/GROUP_CF_LEVEL_1_0-500000/GROUP_CF_LEVEL_2_0-5000/GROUP_CF_LEVEL_3_2751-2800/CF0002771/COLLATERAL",
+          "cmisQuery": "SELECT cmis:contentStreamFileName, cmis:objectId,docType ,cmis:lastModificationDate  ,User_Update FROM COLLATERAL where DocCode='1208.GN.23.001087'"
+        },
+        "label": "Hồ sơ TSBĐ",
+        "object_Type": null,
+        "ECM_defaultProperties": [
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "AppID",
+            "value": "BOTT"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "AppVer",
+            "value": "BOTT_v1,0"
+          },
+          { "hidden": true, "editable": false, "name": "DocName", "value": "" },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "DocCode",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "ProcessCode",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "cmis:name",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "User_Create",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "User_Update",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "DocumentTitle",
+            "value": "Hồ sơ khác"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "Description",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "IsReserved",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustomerName",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "IdentityNum",
+            "value": "CF0002771"
+          },
+          { "hidden": true, "editable": false, "name": "isDrafts", "value": 1 },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustCode",
+            "value": "CF0002771"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustName",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CIF",
+            "value": "106058979"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "Type",
+            "value": "OTHER"
+          }
+        ],
+        "iCreate": null,
+        "iDelete": null
+      },
+      {
+        "iUpdate": null,
+        "code": null,
+        "ecmDocumentOption": {
+          "parentFolderPath": "/EXIM/KH_CN/GROUP_CF_LEVEL_1_0-500000/GROUP_CF_LEVEL_2_0-5000/GROUP_CF_LEVEL_3_2751-2800/CF0002771/DISBURSEMENT",
+          "cmisQuery": "SELECT cmis:contentStreamFileName, cmis:objectId,docType , cmis:lastModificationDate ,User_Update   FROM DISBURSEMENT where DocCode='1208.GN.23.001087'"
+        },
+        "label": "Hồ sơ giải ngân",
+        "object_Type": null,
+        "ECM_defaultProperties": [
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "AppID",
+            "value": "BOTT"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "AppVer",
+            "value": "BOTT_v1,0"
+          },
+          { "hidden": true, "editable": false, "name": "DocName", "value": "" },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "DocCode",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "ProcessCode",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "cmis:name",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "User_Create",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "User_Update",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "DocumentTitle",
+            "value": "Hồ sơ khác"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "Description",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "IsReserved",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustomerName",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "IdentityNum",
+            "value": "CF0002771"
+          },
+          { "hidden": true, "editable": false, "name": "isDrafts", "value": 1 },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustCode",
+            "value": "CF0002771"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustName",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CIF",
+            "value": "106058979"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "Type",
+            "value": "OTHER"
+          }
+        ],
+        "iCreate": null,
+        "iDelete": null
+      },
+      {
+        "iUpdate": null,
+        "code": null,
+        "ecmDocumentOption": {
+          "parentFolderPath": "/EXIM/KH_CN/GROUP_CF_LEVEL_1_0-500000/GROUP_CF_LEVEL_2_0-5000/GROUP_CF_LEVEL_3_2751-2800/CF0002771/OTHER",
+          "cmisQuery": "SELECT cmis:contentStreamFileName, cmis:objectId,docType , cmis:lastModificationDate ,User_Update FROM OTHER where DocCode='1208.GN.23.001087'"
+        },
+        "label": "Hồ sơ khác",
+        "object_Type": null,
+        "ECM_defaultProperties": [
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "AppID",
+            "value": "BOTT"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "AppVer",
+            "value": "BOTT_v1,0"
+          },
+          { "hidden": true, "editable": false, "name": "DocName", "value": "" },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "DocCode",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "ProcessCode",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "cmis:name",
+            "value": "1208.GN.23.001087"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "User_Create",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "User_Update",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "DocumentTitle",
+            "value": "Hồ sơ khác"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "Description",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "IsReserved",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustomerName",
+            "value": "RM_R_1208_01"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "IdentityNum",
+            "value": "CF0002771"
+          },
+          { "hidden": true, "editable": false, "name": "isDrafts", "value": 1 },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustCode",
+            "value": "CF0002771"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CustName",
+            "value": ""
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "CIF",
+            "value": "106058979"
+          },
+          {
+            "hidden": true,
+            "editable": false,
+            "name": "Type",
+            "value": "OTHER"
+          }
+        ],
+        "iCreate": null,
+        "iDelete": null
+      }
+    ],
+    "DS_HOSO": [
+      {
+        "STT": 0,
+        "IREQUIRED": "",
+        "GROUP_DOC_CODE": "LEGAL",
+        "REQUIRED_TIMING": "",
+        "GROUP_DOC_NAME": "Hồ sơ pháp lý",
+        "NOTE": "",
+        "ISFULL": 0
+      },
+      {
+        "STT": 0,
+        "IREQUIRED": "",
+        "GROUP_DOC_CODE": "CREDIT",
+        "REQUIRED_TIMING": "",
+        "GROUP_DOC_NAME": "Hồ sơ cấp tín dụng",
+        "NOTE": "",
+        "ISFULL": 0
+      },
+      {
+        "STT": 0,
+        "IREQUIRED": "",
+        "GROUP_DOC_CODE": "FINANCE",
+        "REQUIRED_TIMING": "",
+        "GROUP_DOC_NAME": "Hồ sơ tài chính",
+        "NOTE": "",
+        "ISFULL": 0
+      },
+      {
+        "STT": 0,
+        "IREQUIRED": "",
+        "GROUP_DOC_CODE": "COLLATERAL",
+        "REQUIRED_TIMING": "",
+        "GROUP_DOC_NAME": "Hồ sơ TSBĐ",
+        "NOTE": "",
+        "ISFULL": 0
+      },
+      {
+        "STT": 0,
+        "IREQUIRED": "",
+        "GROUP_DOC_CODE": "DISBURSEMENT",
+        "REQUIRED_TIMING": "",
+        "GROUP_DOC_NAME": "Hồ sơ giải ngân",
+        "NOTE": "",
+        "ISFULL": 0
+      },
+      {
+        "STT": 0,
+        "IREQUIRED": "",
+        "GROUP_DOC_CODE": "OTHER",
+        "REQUIRED_TIMING": "",
+        "GROUP_DOC_NAME": "Hồ sơ khác",
+        "NOTE": "",
+        "ISFULL": 0
+      }
+    ]
+  },
+  "KETQUA_RULE": {
+    "KETQUA_AM": "{\"approval\":\"CABRN1\",\"workflowType\":\"DXGN_DVKD\"}",
+    "KETQUA_ROUTING": null
+  },
+  "TT_DEXUAT": {
+    "CIF": "106058979",
+    "MUCDO_UUTIEN": "1",
+    "DS_YCAU_GN": [],
+    "DGIA_HDONG_CAMKET_KH": {
+      "MUA_BH_TSBD": "1",
+      "TT_PHATSINH_BIENDONG": "",
+      "NHANXET_DXGN": "1",
+      "KIEMTRA_CTD": "1",
+      "TT_NHANXET_DXGN": "",
+      "TT_BH_TSBD": "",
+      "TT_KIEMTRA": "",
+      "TT_DINHGIA_TSBD": "",
+      "DINHGIA_TSBD": "1",
+      "TT_NHANXET_RM_RBO": "",
+      "CHUYENDONGTIEN_EIB": "1",
+      "DEXUAT_RM_RBO": "1",
+      "TT_CHUYENDONGTIEN_EIB": "",
+      "NO_NHOMCAO": "1",
+      "TT_CAMKET": "",
+      "TT_NHOMNOCAO": "",
+      "NGUONTHU_TRANO": "1",
+      "CAMKET_THOATHUAN": "1"
+    },
+    "LOAI_KH": "CN",
+    "NGAY_HIEULUC": "2019-07-03T00:00:00.000+07:00",
+    "DS_YCAU_BAOLANH": [{
+        "CTU_BOSUNG": 0,
+        "CTHE_NGAYHET_HLUC_CTIET": null,
+        "CM_MUCDICH": "",
+        "CTIET_CTU_DAYDU": "",
+        "NGAYHETHAN_CUTHE": null,
+        "KYQUY": "234",
+        "NGAYHETHAN_SUKIEN": "",
+        "SNGAY_HETHAN_CTIET": 0,
+        "PHI": 0.0,
+        "PHUONGTHUC_THUPHI": "1",
+        "SOTIEN": 0.0,
+        "CTIET_THUPHI_DKY": 0,
+        "CHITIET_THUPHI_KHAC": "",
+        "LOAITHU_BLANH": "LOAITHUBL03",
+        "THOIGIAN_BL_THANG": 0,
+        "PHI_KHAC": "",
+        "CTU_DAYDU": 0,
+        "NGAYHIEU_LUC_CUTHE": "2023-04-26T11:47:00.000+07:00",
+        "SOTIEN_VND": 0.0,
+        "NGAYHETHAN_CTHE": 0,
+        "NGAYHETHAN_SKIEN": 0,
+        "PHI_TOITHIEU": 0.0,
+        "ID_YCBL": "",
+        "THOIHAN_BL_NGAY": "234",
+        "NGAY_HIEULUC": "NGAYHIEULUC02",
+        "NGAYHIEULUC_THEOSUKIEN": null,
+        "KETU_THOIDIEM": "",
+        "TYGIA": 1.0,
+        "LOAITIEN": "VND",
+        "DK_KHAC": "",
+        "SNGAY_HETHAN": 0,
+        "SP_BAOLANH": "BL03",
+        "LAN_THUPHI": 0,
+        "NGTHUHUONG": "324",
+        "MUCDICH_BAOLANH": "423",
+        "DK_NGOAILE": "",
+        "CTHE_NGAYHET_HLUC": 0,
+        "CTIET_CTU_BOSUNG": ""
+      }],
+    "DVKD_KYHD": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+    "TEN_KH_CORE": "LE PHAN VI AI",
+    "DS_YCAU_LC": [],
+    "TEN_KH": "",
+    "CUSTOMER_CODE": "CF0002771",
+    "HTHUC_PHEDUYET": "1",
+    "TONG_SOTIEN_DXUAT": 0,
+    "DS_YCAU_CHIETKHAU": [],
+    "SO_HDTD": "2235LAV190017614",
+    "YC_HONPHOI_KY": 0
+  },
+  "DEXUAT_STHAO_GN": {
+    "IS_LC": 0,
+    "IS_BAOLANH": 0,
+    "IS_CHIETKHAU": 0,
+    "IS_GIAINGAN": 1
+  },
+  "TT_BAO_CAO": {
+    "TT_CTD_KH": {
+      "DAIDIEN_KH": "",
+      "CIF": "106058979",
+      "SDT": "0933094247",
+      "TT_DINHDANH": [
+        {
+          "LOAI_ID": "THECCCD",
+          "MAC_DINH": null,
+          "QG_CAP": "VNM",
+          "NGAY_CAP": "2022-08-12T00:00:00.000+07:00",
+          "NGAY_HET_HAN": null,
+          "SO_ID": "052188017684",
+          "NOI_CAP": "NCID343"
+        }
+      ],
+      "CHUC_VU": "",
+      "MA_DN": "",
+      "NGAYCAP": "",
+      "ONG_BA": "",
+      "LOAI_KH": "",
+      "NGDAIDIEN_KYHD": "",
+      "DIACHI_TRUSO": "",
+      "TT_LIENLAC": [
+        {
+          "DIA_CHI_CUTHE": "93/16 HO THI KI P1 Q10 HCM..",
+          "QUOC_GIA": "VNM",
+          "QUAN_HUYEN": null,
+          "XA_PHUONG": null,
+          "TINH_TP": "79",
+          "LOAI_DIA_CHI": null
+        },
+        {
+          "DIA_CHI_CUTHE": "93/16 HO THI KI P1 Q10 HCM..",
+          "QUOC_GIA": "VNM",
+          "QUAN_HUYEN": null,
+          "XA_PHUONG": null,
+          "TINH_TP": "79",
+          "LOAI_DIA_CHI": null
+        }
+      ],
+      "TEN_KH_CODAU": "LE PHAN VI AI",
+      "TEN_KH_CORE": "CF0002771",
+      "TT_VC_KH": {
+        "CIF": "",
+        "BEN_UQ": 0,
+        "CT_YQ": "",
+        "TEN_KH_CODAU": "",
+        "SDT": "",
+        "TT_DIACHI": [{
+            "DIA_CHI_CUTHE": "",
+            "QUOC_GIA": "",
+            "QUAN_HUYEN": "",
+            "XA_PHUONG": "",
+            "TINH_TP": "",
+            "LOAI_DIA_CHI": ""
+          }],
+        "TEN_KH_CORE": "",
+        "TT_DINHDANH": [],
+        "ONG_BA": "",
+        "NGAY_SINH": null
+      },
+      "NGAY_SINH": "1989-01-12T00:00:00.000+07:00",
+      "NOI_CAP": ""
+    },
+    "TT_YC_BAOLANH": [{
+        "NGAYHIEULUC_CUTHE": "2023-04-26T11:47:00.000+07:00",
+        "PHI_BLANH": 0.0,
+        "LOAI_TIEN": "VND",
+        "NGAY_HH_SUKIEN": null,
+        "DK_NV_BAOLANH": null,
+        "ID_BAOLANH": null,
+        "SHD_KINHTE": null,
+        "NGAYHETHAN_CUTHE": null,
+        "NGAYHETHAN_SUKIEN": null,
+        "CHITIET_CT_BS": "",
+        "KETUTHOIDIEM": "",
+        "SPHAM_BLANH": "BL03",
+        "DIACHI_THUHUONG": null,
+        "CHUNGTU_YCBL": null,
+        "KY_NGAY": null,
+        "PHUONGTHUC_THUPHI": "1",
+        "NGAYHIEULUC_SUKIEN": null,
+        "SOTIEN_CTD_QUYDOI": 0.0,
+        "NGAY_HETHAN": null,
+        "CUTHE_NGAYHETHIEULUC": 0,
+        "CHITIET_CUTHE_NGAYHETHIEULUC": null,
+        "CHITIET_PHI_KHAC": "",
+        "NG_THUHUONG": "324",
+        "PHI_KHAC": "",
+        "SOLAN_DINHKY_THUPHII": 0,
+        "KY_QUY": "234",
+        "CHITIET_SONGAY": 0,
+        "PHI_TOITHIEU": 0.0,
+        "SOTIEN_BLANH": 0.0,
+        "SONGAY": 0,
+        "TT_DINH_DANH": [
+          {
+              "LOAI_ID": "",
+              "MAC_DINH": "",
+              "QG_CAP": "",
+              "NGAY_CAP": "2023-04-03T15:18:55.937+07:00",
+              "NGAY_HET_HAN": "2023-04-03T15:18:55.937+07:00",
+              "SO_ID": "",
+              "NOI_CAP": ""
+            }
+        ],
+        "NGAY_HIEULUC": "NGAYHIEULUC02",
+        "DV_PHATHANH": null,
+        "CHITIET_CT_DA_CUNGCAP": "",
+        "TYGIA": 1.0,
+        "THOIHAN_BL": "234",
+        "DK_KHAC": "",
+        "CHUNGTU_BS": 0,
+        "MUCDICH_BAOLANH": "423",
+        "DANH_GIA_BO": [],
+        "NGAY_HH_CTHE": 0,
+        "LOAI_BLANH": "LOAITHUBL03",
+        "CHUNGTU_DA_CUNGCAP": 0
+      }],
+    "TT_YC_THU_TINDUNG": [],
+    "LUONG_NTIEP": {
+      "XUAT_MUON": 0,
+      "XUAT_TRA": 0,
+      "NHAP_KHO": 0,
+      "YC_KHAC": 0,
+      "DX_GIAINGAN": 0,
+      "YC_SOANTHAO": 0
+    },
+    "TT_YC_CHIETKHAU": [],
+    "TT_DANHGIA_HDONG": {
+      "CTIET_TRC_GN": "",
+      "DGIA_TSBD": "",
+      "KL_BBKIEM_TRA": "",
+      "CTIET_DK_KHAC": "",
+      "CTIET_MUA_BHIEM": "",
+      "DK_KHAC": "",
+      "CTIET_LSTRANO": "",
+      "DK_TRC_GN": "",
+      "MUA_BHIEM": "",
+      "NDUNG_KHAC": "",
+      "LS_TRANO": "",
+      "CTIET_DGIA_TSBD": ""
+    },
+    "TT_YC_GIAINGAN": [ {
+          "THOIGIAN_CODINH": null,
+          "TG_CHOVAY_NGAY": 0,
+          "LOAI_TIEN": "VND",
+          "KIEN_NGHI_KHAC": "",
+          "CHITIET_KYTRALAI_KHAC": "",
+          "TY_GIA": 1.0,
+          "STT": null,
+          "KYHAN_TRALAI": "1",
+          "DEN_NGAY": null,
+          "SAN_PHAM_CTD": "Th\u1ebb t\u00edn d\u1ee5ng c\u00e1 nh\u00e2n kh\u00f4ng TSB\u0110",
+          "SOTIEN_GN_TIENMAT": 0.0,
+          "NGTAC_DIEUCHINH_LS": null,
+          "SOTIEN_CTD_QUYDOI": 0.0,
+          "PHUONGTHUC_PHAT": null,
+          "CHITIET_TRAGOC_KHAC": "",
+          "DS_CODE_MUCDICH": [{
+            "TEN_CODE_CAP6": "",
+            "TEN_CODE_CAP3": "",
+            "TEN_CODE_CAP2": "",
+            "TEN_CODE_CAP5": "",
+            "TEN_CODE_CAP4": "",
+            "TEN_CODE_CAP1": ""
+          }],
+          "LOAI_YC_PHAT": null,
+          "THOIGIAN_AN_HAN": "",
+          "CHITIET_CT_CUNGCAP": "",
+          "CT_BOSUNG": 0,
+          "PHUTHUC_GN_TM": 0,
+          "THOIHAN_CHOVAY": null,
+          "CHITIET_KHAC_DCLSUAT": null,
+          "SOTIEN_GN": null,
+          "KY_TRAGOC_DAUTIEN": null,
+          "DCHINH_LS_CHOVAY": null,
+          "DINHKY_TRANO_GOC": 0,
+          "CHUKY_TD_LSUAT": null,
+          "DINHKY_THAYDOI_LS": null,
+          "LS_CHOVAY": "Theo quy \u0111\u1ecbnh c\u1ee7a Eximbank",
+          "PHI": "",
+          "PHATTRUOC_HAN": null,
+          "MUCPHI_PHAT": 0,
+          "KYHAN_TRANO_GOC": "",
+          "TU_NGAY": "2023-04-20T00:00:00.000+07:00",
+          "DS_DANHGIA": [],
+          "NGAY_TRANO_LAI": "2023-04-20T00:00:00.000+07:00",
+          "DS_PHUONGTHUC_GN": [],
+          "PHTHUC_GN_CK": 0,
+          "CHITIET_CT_BOSUNG": "",
+          "YC_KHAC": "",
+          "MUCDICH_GN": "\u01b0er",
+          "CT_DA_CUNGCAP": null,
+          "NGAYTRALAI_CUOIKY": null,
+          "KY_TRAGOC_CUOI": null,
+          "ID_YEUCAU_GN": "G639876",
+          "TG_DINHKY_THAYDOI_LS": null,
+          "NGAY_TRALAI_DAUTIEN": null,
+          "SOTIEN_TRAGOC_HANGKY": 0.0,
+          "TG_CHOVAY_THANG": 0
+        }],
+    "TT_HD": {
+      "SO_TIEN_CTD": 0,
+      "TEN_HD_CHITIET": "",
+      "TINHHINH_SDVON": [],
+      "TONG_DUNO": 0,
+      "NHOM_NO": "",
+      "SOTIEN_GN_CONLAI": 0,
+      "NGAY_PHEDUYET": null,
+      "THOI_HAN_GN": null,
+      "BIENPHAP_BAODAM": [],
+      "SO_LVA": "",
+      "TONG_QUYDOI": 0,
+      "THOIHAN_GN_TUNGLAN": 0,
+      "MUCDICH_VAY": "",
+      "CAP_PHEDUYET": "",
+      "DK_TRUOC_GN": "",
+      "HM_TINDUNG": [],
+      "LOAI_TIEN_HD": "",
+      "THONGBAO_PHEDUYET": "",
+      "TONG_SOTIEN_GN": 0,
+      "PHUONGTHUC_CTD": "",
+      "THOIHAN_VAY": 0
+    }
+  }
+  },
+  "env": {
+    "GENDOC_URL": "http://10.1.45.79:9000/api/documentExport"
+}
+}

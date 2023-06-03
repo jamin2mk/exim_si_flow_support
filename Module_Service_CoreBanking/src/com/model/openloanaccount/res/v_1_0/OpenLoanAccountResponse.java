@@ -1,0 +1,33 @@
+package com.model.openloanaccount.res.v_1_0;
+
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement(name = "OpenLoanAccountResponse", namespace = "http://www.alsb.com/")
+@XmlAccessorType(XmlAccessType.FIELD)
+public class OpenLoanAccountResponse {
+
+	@XmlElement(name = "ResutlResponse")
+	protected String resultResponse;
+
+	public OpenLoanAccountResponse() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public OpenLoanAccountResponse(String resultResponse) {
+		super();
+		this.resultResponse = resultResponse;
+	}
+
+	public String getResultResponse() {
+		return resultResponse;
+	}
+
+	public void setResultResponse(String resultResponse) {
+		this.resultResponse = resultResponse;
+	}
+
+}

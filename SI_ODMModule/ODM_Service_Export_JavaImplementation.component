@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scdl:component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ODM_Service_AIS="http://SIFLOWS/AIS/ODM_Service_AIS" xmlns:java="http://www.ibm.com/xmlns/prod/websphere/scdl/java/6.0.0" xmlns:scdl="http://www.ibm.com/xmlns/prod/websphere/scdl/6.0.0" xmlns:wsdl="http://www.ibm.com/xmlns/prod/websphere/scdl/wsdl/6.0.0" displayName="ODM_Service_Export_JavaImplementation" name="ODM_Service_Export_JavaImplementation">
+  <description>[Enter a description for this component.]</description>
+  <interfaces>
+    <interface xsi:type="wsdl:WSDLPortType" portType="ODM_Service_AIS:ODM_Service_AIS"/>
+  </interfaces>
+  <implementation xsi:type="java:JavaImplementation" class="siflows.ais.odm_service_ais.ODM_Service_Export_JavaImplementationImpl1"/>
+</scdl:component>

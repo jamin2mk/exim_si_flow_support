@@ -1,0 +1,645 @@
+{
+        "data": {
+            "LOS_BPM_INFORMATION": {
+                "ROLE_BEFORE": "",
+                "REF_LOS_DOC": "",
+                "IS_ADJUST": 0,
+                "FUNCTION_BEFORE": "",
+                "DV_TAPTRUNG": 2,
+                "SLA": 120,
+                "DATE_CREATE_PROCESS": "2023-06-02T15:16:25.000+07:00",
+                "BRN_CODE_CREATE": "1208",
+                "STATUS_BEFORE_NAME": "Kiểm soát",
+                "ROLE_UPDATE_NAME": "Cán bộ Hỗ trợ tín dụng Đơn vị kinh doanh",
+                "TOTAL_TIME_HANDLE": 0,
+                "FULLNAME_BEFORE": "",
+                "STATUS_UPDATE": "STA03",
+                "ROLE_CREATED": "RM_R",
+                "USER_UPDATED": "BOM_DVKD_1208_01",
+                "TOTAL_TIME_COMPLETE": 2,
+                "REF_BOTT": "",
+                "TASK_NAME": "",
+                "BRN_PHONE_CREATE": "02623934545",
+                "WORKFLOW_TYPE": "YCST_DVKD",
+                "LAST_APPROVAL_ROLE_NAME": "Kiểm soát Hỗ trợ tín dụng Đơn vị kinh doanh 1",
+                "TIME_RECEIVE_TASK": "2023-06-02T15:19:25.615+07:00",
+                "BPM_TASK_ID": "25190",
+                "APPROVED_ACTION": "",
+                "BRANCH_LEVEL": "",
+                "LAST_APPROVED": "BOC1_DVKD",
+                "COMMENT_TASK_DETAIL": "",
+                "TIME_HANDLE_TASK": "2023-06-02T15:21:10.731+07:00",
+                "USER_CREATED_BRANCH_CODE": "1208",
+                "SLA_COMPLETE_TASK": "2023-06-05T07:49:00.000+07:00",
+                "PROVINCE_CREATE": "",
+                "BPM_INSTANCE_ID": "10345",
+                "USER_BEFORE": "",
+                "REF_DBM": "",
+                "COMMENT_TASK": "",
+                "ROLE_UPDATED": "BOM_DVKD",
+                "STATUS_BEFORE": "STA05",
+                "BRN_CODE": "1208",
+                "USRNAME_EXIM": "",
+                "DEPT_USER_CREATE_CODE": "",
+                "USER_CREATED": "RM_R_1208_01",
+                "FUNCTION_UPDATE": "INPUT",
+                "USER_CREATED_BRANCH_NAME": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+                "ROLE_BEFORE_NAME": "",
+                "USER_BEFORE_NAME": "",
+                "USER_CLAIM": "BOM_DVKD_1208_01",
+                "MASTER_PROCESS_TYPE": "YCST",
+                "FULLNAME_UPDATED": "INPUT",
+                "USER_APPROVED_CODE": "",
+                "FLAG_ACTIVE": "",
+                "TIER_BRN_CREATE": "TIER05",
+                "USER_UPDATE_NAME": "Cán bộ Hỗ trợ tín dụng Đơn vị kinh doanh_01",
+                "BRN_ADDRESS_CREATE": "114-116 Phan Bội Châu, P.Thống Nhất, Tp.Buôn Ma Thuột, tỉnh Đăklăk / T.Đắk Lắk / P.Tân Lập / P.Tân Lập",
+                "CODE": "1208.ST.23.002241",
+                "ACTION": "AGREE",
+                "USER_APPROVED_NAME": "",
+                "STATUS_UPDATE_NAME": "Khởi tạo",
+                "WF_TYPE_NAME": "Đơn vị kinh doanh",
+                "DEPT_USER_CREATE_NAME": "",
+                "IS_COMPLETE": 0,
+                "FULLNAME_CREATED": "",
+                "DS_CB_XULY": [
+                    {
+                        "DEPT_CODE": "",
+                        "BRANCH_CODE": "1208",
+                        "STEP": 1,
+                        "ROLE_NAME": "Cán bộ Quan hệ khách hàng cá nhân",
+                        "USER_NAME": "RM_R_1208_01",
+                        "ROLE_CODE": "RM_R",
+                        "FULLNAME": "Cán bộ Quan hệ khách hàng cá nhân"
+                    }
+                ],
+                "TIME_COMPLETE_TASK": "2023-06-02T15:19:22.000+07:00"
+            },
+            "TT_HO_SO": {
+                "LOS_ECM_INFO": [],
+                "DS_HOSO": [
+                    {
+                        "STT": 0,
+                        "IREQUIRED": "",
+                        "GROUP_DOC_CODE": "LEGAL",
+                        "REQUIRED_TIMING": "",
+                        "GROUP_DOC_NAME": "Hồ sơ pháp lý",
+                        "NOTE": "",
+                        "ISFULL": 0
+                    },
+                    {
+                        "STT": 0,
+                        "IREQUIRED": "",
+                        "GROUP_DOC_CODE": "CREDIT",
+                        "REQUIRED_TIMING": "",
+                        "GROUP_DOC_NAME": "Hồ sơ cấp tín dụng",
+                        "NOTE": "",
+                        "ISFULL": 0
+                    },
+                    {
+                        "STT": 0,
+                        "IREQUIRED": "",
+                        "GROUP_DOC_CODE": "FINANCE",
+                        "REQUIRED_TIMING": "",
+                        "GROUP_DOC_NAME": "Hồ sơ tài chính",
+                        "NOTE": "",
+                        "ISFULL": 0
+                    },
+                    {
+                        "STT": 0,
+                        "IREQUIRED": "",
+                        "GROUP_DOC_CODE": "COLLATERAL",
+                        "REQUIRED_TIMING": "",
+                        "GROUP_DOC_NAME": "Hồ sơ TSBĐ",
+                        "NOTE": "",
+                        "ISFULL": 0
+                    },
+                    {
+                        "STT": 0,
+                        "IREQUIRED": "",
+                        "GROUP_DOC_CODE": "DISBURSEMENT",
+                        "REQUIRED_TIMING": "",
+                        "GROUP_DOC_NAME": "Hồ sơ giải ngân",
+                        "NOTE": "",
+                        "ISFULL": 0
+                    },
+                    {
+                        "STT": 0,
+                        "IREQUIRED": "",
+                        "GROUP_DOC_CODE": "OTHER",
+                        "REQUIRED_TIMING": "",
+                        "GROUP_DOC_NAME": "Hồ sơ khác",
+                        "NOTE": "",
+                        "ISFULL": 0
+                    }
+                ]
+            },
+            "KETQUA_RULE": {
+                "KETQUA_AM": "{\"approval\":\"BOC1_DVKD\",\"workflowType\":\"YCST_DVKD\"}",
+                "KETQUA_ROUTING": "[{\"step\":1,\"stepCode\":\"STEP001\",\"lane\":\"INPUT\",\"role\":\"RM_R\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":2,\"stepCode\":\"STEP002\",\"lane\":\"REVIEW\",\"role\":\"RMTL2_R\",\"skipStep\":1,\"isSameBrn\":1},{\"step\":3,\"stepCode\":\"STEP003\",\"lane\":\"REVIEW\",\"role\":\"BOD_DVKD\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":4,\"stepCode\":\"STEP004\",\"lane\":\"INPUT\",\"role\":\"BOM_DVKD\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":5,\"stepCode\":\"STEP005\",\"lane\":\"REVIEW\",\"role\":\"BOC1_DVKD\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":6,\"stepCode\":\"STEP007\",\"lane\":\"INPUT\",\"role\":\"RM_R\",\"skipStep\":2,\"isSameBrn\":1}]"
+            },
+            "DENGHI_STHAO_HD": {
+                "IS_HD_TSBD": 1,
+                "IS_HD_KHAC": 0,
+                "IS_HD_CTD": 0
+            },
+            "YKIEN_KSOAT_PDUYET": [],
+            "TT_DENGHI": {
+                "TT_YC_HDTSBD": [
+                    {
+                        "NV_BAODAM": "1",
+                        "STT": "",
+                        "LOAI_TSBD": "TSBD01",
+                        "DS_HDTD_SO": [
+                            {
+                                "NGAY": "",
+                                "SO": "",
+                                "LOAI_HD": ""
+                            }
+                        ],
+                        "ID_HD": "ST1685693738023",
+                        "TONG_NV_BAODAM": "1",
+                        "TONG_NV_BAODAM_KHAC": 0,
+                        "GHICHU": "",
+                        "HINHTHUC_SOHUU": "HTSHTS01",
+                        "TONG_NV_BAODAM_TSBD": 0
+                    }
+                ],
+                "TONGSOTIEN_DENGHI": 0,
+                "TT_CACBEN_KI_HD": {
+                    "CIF": "121079908",
+                    "HINHTHUC_PHEDUYET": "1",
+                    "DV_DENGHI": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+                    "TEN_KH_CORE": "PHAM VAN CUONG",
+                    "YC_HONPHOI": 0,
+                    "CUSTOMER_IDENTITY": "NULL",
+                    "TEN_KH": "PHAM VAN CUONG",
+                    "CUSTOMER_CODE": "CF0002875",
+                    "CAP_UUTIEN": "2",
+                    "LOAI_KH": "CN"
+                },
+                "TT_YC_HDTINDUNG": [],
+                "TT_YC_HDKHAC": [],
+                "TT_THEM": {
+                    "GHICHU": "",
+                    "LYDO": ""
+                }
+            },
+            "TT_SOANTHAO": {
+                "TT_YC_HDTSBD": [
+                    {
+                        "TT_LUUGIU_HD": {
+                            "BQL_CHO": 0,
+                            "EXIM": 0,
+                            "KHACHHANG": 0,
+                            "TCCC_UBND": 0,
+                            "CQDK": 0,
+                            "TONGSO_HD": 0
+                        },
+                        "ID_HD": "ST1685693738023",
+                        "TT_BEN_CN": {
+                            "TT_DONGCN": {
+                                "TT_LIENLAC": [
+                                    {
+                                        "DIA_CHI_CUTHE": "",
+                                        "QUOC_GIA": "VNM",
+                                        "QUAN_HUYEN": "",
+                                        "XA_PHUONG": "",
+                                        "TINH_TP": "",
+                                        "LOAI_DIA_CHI": "DCLIENHE"
+                                    },
+                                    {
+                                        "DIA_CHI_CUTHE": "",
+                                        "QUOC_GIA": "VNM",
+                                        "QUAN_HUYEN": "",
+                                        "XA_PHUONG": "",
+                                        "TINH_TP": "",
+                                        "LOAI_DIA_CHI": "HKTHUONGTRU"
+                                    }
+                                ],
+                                "TT_DINHDANH": [
+                                    {
+                                        "LOAI_ID": "CMND",
+                                        "QG_CAP": "VNM"
+                                    }
+                                ]
+                            },
+                            "TT_DINHDANH": [
+                                {
+                                    "LOAI_ID": "CMND",
+                                    "QG_CAP": "VNM"
+                                }
+                            ],
+                            "TT_LIENLAC": [
+                                {
+                                    "DIA_CHI_CUTHE": "",
+                                    "QUOC_GIA": "VNM",
+                                    "QUAN_HUYEN": "",
+                                    "XA_PHUONG": "",
+                                    "TINH_TP": "",
+                                    "LOAI_DIA_CHI": "DCLIENHE"
+                                },
+                                {
+                                    "DIA_CHI_CUTHE": "",
+                                    "QUOC_GIA": "VNM",
+                                    "QUAN_HUYEN": "",
+                                    "XA_PHUONG": "",
+                                    "TINH_TP": "",
+                                    "LOAI_DIA_CHI": "HKTHUONGTRU"
+                                }
+                            ],
+                            "YC_DONGCN": 0
+                        },
+                        "TONG_NV_BAODAM": "1",
+                        "DK_PHONGTOA": 0,
+                        "TONG_NV_BAODAM_TSBD": 0,
+                        "NV_BAODAM": "1",
+                        "STT": 1,
+                        "TT_DK_BPBD": {
+                            "PTHUC_NHANKQ": "1",
+                            "YC_DK_BD": 0,
+                            "YC_DK_NHANBD": 0
+                        },
+                        "DS_HDTD_SO": [
+                            {
+                                "NGAY": "",
+                                "SO": "",
+                                "LOAI_HD": ""
+                            }
+                        ],
+                        "DS_TV_GTCG": [],
+                        "DS_PTVT": [],
+                        "LOAI_TSBD": "TSBD01",
+                        "DS_BDS": [
+                            {
+                                "TS_HTTTL": {
+                                    "MO_TA": "",
+                                    "TEN_HD_MUABAN": "",
+                                    "GIAY_TO": "",
+                                    "SO_NGAY_MUABAN": ""
+                                },
+                                "TS_CHCC": {
+                                    "TANG": 0,
+                                    "NAM_XD": "",
+                                    "DIEN_TICH": 0,
+                                    "DIA_CHI": "",
+                                    "SO_TANG": "",
+                                    "CANHO_SO": "",
+                                    "KET_CAU": ""
+                                },
+                                "ID_TS": "BDS1685694076947",
+                                "GIAYTO_LQ": "",
+                                "GIA_TRI": 0,
+                                "GIA_TRI_TSBD": "0",
+                                "HINHTHUC_SOHUU": "HTSHTS01",
+                                "QSH_SD_DDKD": {
+                                    "DS_NH_KINHDDOANH": [
+                                        {
+                                            "DIEN_TICH": 0,
+                                            "HESO_TL": 0,
+                                            "MA_SO": "",
+                                            "KICH_THUOC": 0,
+                                            "NGANHHANG_KD": ""
+                                        }
+                                    ],
+                                    "SO_HD": "",
+                                    "BQLC": "",
+                                    "GIAYTO_SOHUU": ""
+                                },
+                                "MO_TA_THEM": "",
+                                "TEN_TSBD": "",
+                                "GHI_CHU": "",
+                                "TS_TRENDAT": {
+                                    "DIENTICH_SAN": 31,
+                                    "MUC_DICH": "31",
+                                    "DIA_CHI": "31",
+                                    "THOIHAN_SOHUU": "31",
+                                    "LOAI_TS": "31",
+                                    "CAP_HANG": "31",
+                                    "SO_TANG": 31,
+                                    "TEN_NGUOI_SD": "31",
+                                    "DIENTICH_XD": 31,
+                                    "KET_CAU": "31"
+                                },
+                                "QSSD": {
+                                    "HANCHE_SDD": "1",
+                                    "DIEN_TICH": 6546466,
+                                    "TEN_GIAY_CN": "1",
+                                    "SO_GCN": "1",
+                                    "THOIHANSUDUNG": "1",
+                                    "CO_QUAN_CAP": "ẻar",
+                                    "DIEN_TICH_SDR": 1111,
+                                    "THUA_DAT_SO": 0,
+                                    "THUADATSO": "12",
+                                    "NGUON_GOC": "132132",
+                                    "CHITIET_BIENDONG_TS": "",
+                                    "MUC_DICH": "1",
+                                    "THOIHAN_SD_CONLAI": 11,
+                                    "BAN_DO_SO": 0,
+                                    "NGAY_CAP": "2023-04-13T00:00:00.000+07:00",
+                                    "DIA_CHI": "13213",
+                                    "THOIHAN_SD": 0,
+                                    "SO_VAOSO": "1",
+                                    "TOBANDOSO": "12",
+                                    "LO_OSO": "1",
+                                    "CAPNHAT_BIENDONG_TS": 0,
+                                    "DIEN_TICH_SDC": 111
+                                },
+                                "TEN_CSH": "PHAM VAN CUONG",
+                                "LOAI_BDS": "BOPLBDS02",
+                                "TSTD_CCGCN": {
+                                    "GHI_CHU": "",
+                                    "TS_CCGCN": 0,
+                                    "GIAYTO_LQ": "",
+                                    "GIA_TRI": 0,
+                                    "MO_TA": "",
+                                    "MO_TA_THEM": ""
+                                }
+                            }
+                        ],
+                        "DS_QTS": [],
+                        "TONG_NV_BAODAM_TIEN": 0,
+                        "HINHTHUC_SOHUU": "HTSHTS01",
+                        "TT_BEN_BD": {
+                            "TT_LIENLAC": [
+                                {
+                                    "DIA_CHI_CUTHE": "SO 144, NGUYEN TRI PHUONG, P. THANH CONG,TP BUON ME THUOT,.",
+                                    "QUOC_GIA": "VNM",
+                                    "TINH_TP": "66",
+                                    "LOAI_DIA_CHI": "HKTHUONGTRU"
+                                },
+                                {
+                                    "DIA_CHI_CUTHE": "D11/1W, QUACH DIEU, AP 4A, XA VINH LOC A,HUYEN BINH CHANH,.",
+                                    "QUOC_GIA": "VNM",
+                                    "TINH_TP": "79",
+                                    "LOAI_DIA_CHI": "DCLIENHE"
+                                }
+                            ],
+                            "LOAIKH": 2,
+                            "TT_DINHDANH": [
+                                {
+                                    "LOAI_ID": "CMND",
+                                    "QG_CAP": "VNM",
+                                    "NGAY_CAP": "2017-07-12T00:00:00.000+07:00",
+                                    "SO_ID": "240908699",
+                                    "NOI_CAP": "NCID068"
+                                }
+                            ],
+                            "TT_NGUOIHONPHOI": {
+                                "TT_LIENLAC": [
+                                    {
+                                        "DIA_CHI_CUTHE": "",
+                                        "QUOC_GIA": "VNM",
+                                        "QUAN_HUYEN": "",
+                                        "XA_PHUONG": "",
+                                        "TINH_TP": "",
+                                        "LOAI_DIA_CHI": "DCLIENHE"
+                                    },
+                                    {
+                                        "DIA_CHI_CUTHE": "",
+                                        "QUOC_GIA": "VNM",
+                                        "QUAN_HUYEN": "",
+                                        "XA_PHUONG": "",
+                                        "TINH_TP": "",
+                                        "LOAI_DIA_CHI": "HKTHUONGTRU"
+                                    }
+                                ],
+                                "TT_DINHDANH": [
+                                    {
+                                        "LOAI_ID": "CMND",
+                                        "QG_CAP": "VNM"
+                                    }
+                                ]
+                            },
+                            "UYQUYEN_KY_HS": 0,
+                            "DS_DONGSOHUU": [],
+                            "LOAI_KH": "CN",
+                            "KH_CN": {
+                                "CIF": "121079908",
+                                "TEN_KH_CODAU": "PHAM VAN CUONG",
+                                "NAM_SINH": "1990-05-07T00:00:00.000+07:00",
+                                "TEN_KH_CORE": "PHAM VAN CUONG",
+                                "SO_DT": "0908709907",
+                                "ONG_BA": "ONG"
+                            },
+                            "DONG_SO_HUU": 0,
+                            "KH_DN": {
+                                "DAIDIEN_KH": "",
+                                "CIF": "121079908",
+                                "TEN_KH_CODAU": "PHAM VAN CUONG",
+                                "DIACHI": "",
+                                "SO_DT": "0908709907",
+                                "CHUC_VU": "",
+                                "MASO_DN": "",
+                                "ONG_BA": "ONG",
+                                "NOI_CAP": "",
+                                "NGDAIDIEN_KYHD": ""
+                            },
+                            "YC_NGUOIHONPHOI": 0
+                        },
+                        "DK_BPBD": 0,
+                        "DS_HOSO_GIAONHAN": [],
+                        "DK_CONGCHUNG": 0,
+                        "KHONGTHUCHIEN_DK": 0
+                    }
+                ],
+                "TONGSOTIEN_DENGHI": 0,
+                "TT_CTD_KH": {
+                    "DAIDIEN_KH": "",
+                    "CIF": "121079908",
+                    "SDT": "0908709907",
+                    "TT_DINHDANH": [
+                        {
+                            "LOAI_ID": "CMND",
+                            "QG_CAP": "VNM",
+                            "NGAY_CAP": "2017-07-12T00:00:00.000+07:00",
+                            "SO_ID": "240908699",
+                            "NOI_CAP": "NCID068"
+                        }
+                    ],
+                    "CHUC_VU": "",
+                    "MA_DN": "",
+                    "BEN_UY_QUYEN": 0,
+                    "ONG_BA": "ONG",
+                    "LOAI_KH": "CN",
+                    "NGDAIDIEN_KYHD": "",
+                    "DIACHI_TRUSO": "",
+                    "TT_LIENLAC": [
+                        {
+                            "DIA_CHI_CUTHE": "SO 144, NGUYEN TRI PHUONG, P. THANH CONG,TP BUON ME THUOT,.",
+                            "QUOC_GIA": "VNM",
+                            "TINH_TP": "66",
+                            "LOAI_DIA_CHI": "HKTHUONGTRU"
+                        },
+                        {
+                            "DIA_CHI_CUTHE": "D11/1W, QUACH DIEU, AP 4A, XA VINH LOC A,HUYEN BINH CHANH,.",
+                            "QUOC_GIA": "VNM",
+                            "TINH_TP": "79",
+                            "LOAI_DIA_CHI": "DCLIENHE"
+                        }
+                    ],
+                    "CT_UY_QUYEN": "",
+                    "TEN_KH_CODAU": "PHAM VAN CUONG",
+                    "TEN_KH_CORE": "PHAM VAN CUONG",
+                    "TT_VC_KH": {
+                        "CIF": "",
+                        "BEN_UQ": 0,
+                        "CT_YQ": "Bên được cấp tín dụng/Bên vay đồng ý rằng, chỉ cần một bên là Ông ... (ghi rõ họ, tên, năm sinh, địa chỉ, CMND/ CCCD) hoặc một bên là Bà ... (ghi rõ họ, tên, năm sinh, địa chỉ, CMND/ CCCD) đại diện ký tên trên các Khế ước nhận nợ phát sinh theo Hợp đồng này thì cũng được xem là đại diện của Bên được cấp tín dụng mà không cần phải có đầy đủ chữ ký của (các) Bên được cấp tín dụng và Bên được cấp tín dụng không khước từ nghĩa vụ của mình đối với các Khế ước nhận nợ phát sinh do Ông ... hoặc Bà ... ký kết với Eximbank.",
+                        "TEN_KH_CODAU": "",
+                        "SDT": "",
+                        "TT_DIACHI": [
+                            {
+                                "DIA_CHI_CUTHE": "",
+                                "QUOC_GIA": "VNM",
+                                "QUAN_HUYEN": "",
+                                "XA_PHUONG": "",
+                                "TINH_TP": "",
+                                "LOAI_DIA_CHI": "DCLIENHE"
+                            },
+                            {
+                                "DIA_CHI_CUTHE": "",
+                                "QUOC_GIA": "VNM",
+                                "QUAN_HUYEN": "",
+                                "XA_PHUONG": "",
+                                "TINH_TP": "",
+                                "LOAI_DIA_CHI": "HKTHUONGTRU"
+                            }
+                        ],
+                        "TEN_KH_CORE": "",
+                        "TT_DINHDANH": [
+                            {
+                                "LOAI_ID": "CMND",
+                                "QG_CAP": "VNM"
+                            }
+                        ],
+                        "ONG_BA": ""
+                    },
+                    "CUSTOMER_CODE": "",
+                    "NGAY_SINH": "1990-05-07T00:00:00.000+07:00",
+                    "NOI_CAP": ""
+                },
+                "LUONG_NTIEP": {
+                    "XUAT_MUON": 0,
+                    "XUAT_TRA": 0,
+                    "NHAP_KHO": 0,
+                    "YC_KHAC": 0,
+                    "DX_GIAINGAN": 0,
+                    "YC_SOANTHAO": 0
+                },
+                "DS_TV_GTCG": [],
+                "DS_BDS": [],
+                "DS_PTVT": [],
+                "TT_CTD_EXIM": {
+                    "CHUCVU": "Phó Giám đốc",
+                    "DIACHI": "114-116 Phan Bội Châu, P.Thống Nhất, Tp.Buôn Ma Thuột, tỉnh Đăklăk / T.Đắk Lắk / P.Tân Lập / P.Tân Lập",
+                    "NGUOI_DAIDIEN": "120100099",
+                    "TT_DINHDANH": [
+                        {
+                            "LOAI_ID": "CMND",
+                            "QG_CAP": "VNM"
+                        }
+                    ],
+                    "NGAYCAP": "2020-07-15T00:00:00.000+07:00",
+                    "DVKD": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+                    "SO_DIENTHOAI": "02623934545",
+                    "ONG_BA": "BA",
+                    "NGUOI_CAP": "",
+                    "MASO_DN": "0301179079-022",
+                    "NGAYCAP_UYQUYEN": "28/4/2023",
+                    "NOICAP": "Sở KH & ĐT tỉnh Đắk Lắk",
+                    "GIAY_UYQUYEN": " User_test 1"
+                },
+                "TT_YC_HDTINDUNG": [],
+                "TT_BEN_BD": {
+                    "TT_LIENLAC": [],
+                    "LOAIKH": 0,
+                    "TT_DINHDANH": [],
+                    "CHITIET_UYQUYEN": "",
+                    "TT_NGUOIHONPHOI": {
+                        "TT_LIENLAC": [],
+                        "CIF": "",
+                        "TEN_KH_CODAU": "",
+                        "ID_KH": "",
+                        "TEN_KH_CORE": "",
+                        "SO_DT": "",
+                        "TT_DINHDANH": [],
+                        "SO_ID": "",
+                        "ONG_BA": ""
+                    },
+                    "UYQUYEN_KY_HS": 0,
+                    "DS_DONGSOHUU": [],
+                    "LOAI_KH": "CN",
+                    "KH_CN": {
+                        "CIF": "",
+                        "TEN_KH_CODAU": "",
+                        "TEN_KH_CORE": "",
+                        "SO_DT": "",
+                        "EMAIL": "",
+                        "ONG_BA": ""
+                    },
+                    "DONG_SO_HUU": 0,
+                    "KH_DN": {
+                        "DAIDIEN_KH": "",
+                        "CIF": "",
+                        "TEN_KH_CODAU": "",
+                        "DIACHI": "",
+                        "SO_DT": "",
+                        "CHUC_VU": "",
+                        "MASO_DN": "",
+                        "ONG_BA": "",
+                        "NOI_CAP": "",
+                        "NGDAIDIEN_KYHD": ""
+                    },
+                    "YC_NGUOIHONPHOI": 0
+                }
+            }
+        },
+        "env": {
+            "GENDOC_URL": "http://10.1.45.79:9000/api/documentExport"
+        },
+        "userInfo": {
+            "teamName": "",
+            "deptName": "",
+            "dept_type_code": "",
+            "limit_code": "GROUP05",
+            "certificate": "",
+            "otherUnitCode": 0,
+            "title": "",
+            "userCode": "BOM_DVKD_1208_01",
+            "unitType": "",
+            "tier": "TIER05",
+            "dept_type_name": "",
+            "unitCode": 0,
+            "limit": 0,
+            "id": 9755,
+            "certificateBy": "",
+            "title_name": "",
+            "MaDoanhNghiep": "0301179079-022",
+            "powerAttorney": "",
+            "email": "khuongn@hpt.vn",
+            "groupCode": "GR_BOM_DVKD_1208",
+            "branchId": 0,
+            "unitName": "",
+            "keyLevel": 0,
+            "branchName": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+            "fullName": "Cán bộ Hỗ trợ tín dụng Đơn vị kinh doanh_01",
+            "role_code": "BOM_DVKD",
+            "bo_tt": "2",
+            "userName": "BOM_DVKD_1208_01",
+            "branch_Level": "PGD",
+            "NoiCap": "Sở KH & ĐT tỉnh Đắk Lắk",
+            "branchCode": "1208",
+            "role_name": "Cán bộ Hỗ trợ tín dụng Đơn vị kinh doanh",
+            "title_code": "",
+            "bds": "",
+            "op1": "",
+            "phone": "02623934545",
+            "fullAddress": "114-116 Phan Bội Châu, P.Thống Nhất, Tp.Buôn Ma Thuột, tỉnh Đăklăk / T.Đắk Lắk / P.Tân Lập / P.Tân Lập",
+            "NgayCap": "2020-07-15T00:00:00.000+07:00",
+            "PROVINCE": "66",
+            "position": "",
+            "representativeName": "",
+            "deptCode": ""
+        },
+        "dependentRequired": "{\"DIR\":\"#.TT_SOANTHAO.TT_YC_HDTSBD\",\"ID_HOPDONG\":\"ST1685693738023\",\"CODE_PROPERTY\":\"BDS1685694076947\"}"
+    }

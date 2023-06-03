@@ -1,0 +1,174 @@
+{
+    "LOS_BPM_INFORMATION": {
+        "ROLE_BEFORE": "",
+        "REF_LOS_DOC": "",
+        "IS_ADJUST": 0,
+        "FUNCTION_BEFORE": "",
+        "DV_TAPTRUNG": 0,
+        "SLA": 0,
+        "DATE_CREATE_PROCESS": "2023-04-18T10:32:03.040+07:00",
+        "BRN_CODE_CREATE": "",
+        "STATUS_BEFORE_NAME": "",
+        "ROLE_UPDATE_NAME": "",
+        "FULLNAME_BEFORE": "",
+        "STATUS_UPDATE": "",
+        "ROLE_CREATED": "",
+        "USER_UPDATED": "",
+        "TOTAL_TIME_COMPLETE": 0,
+        "REF_BOTT": "",
+        "TASK_NAME": "",
+        "WORKFLOW_TYPE": "DXGN_DVKD",
+        "LAST_APPROVAL_ROLE_NAME": "",
+        "TIME_RECEIVE_TASK": "2023-04-18T10:32:03.039+07:00",
+        "BPM_TASK_ID": "",
+        "APPROVED_ACTION": "",
+        "BRANCH_LEVEL": "",
+        "LAST_APPROVED": "",
+        "TIME_PENDING": "2023-04-18T10:32:03.040+07:00",
+        "COMMENT_TASK_DETAIL": "",
+        "TIME_HANDLE_TASK": "2023-04-18T10:32:03.039+07:00",
+        "USER_CREATED_BRANCH_CODE": "",
+        "SLA_COMPLETE_TASK": "2023-04-18T10:32:03.040+07:00",
+        "PROVINCE_CREATE": "",
+        "BPM_INSTANCE_ID": "",
+        "USER_BEFORE": "",
+        "DATE_APPROVED": "2023-04-18T10:32:03.040+07:00",
+        "REF_DBM": "",
+        "COMMENT_TASK": "",
+        "ROLE_UPDATED": "",
+        "STATUS_BEFORE": "",
+        "TIME_ACTIVE": "2023-04-18T10:32:03.040+07:00",
+        "BRN_CODE": "",
+        "USRNAME_EXIM": "",
+        "DEPT_USER_CREATE_CODE": "",
+        "USER_CREATED": "",
+        "FUNCTION_UPDATE": "",
+        "USER_CREATED_BRANCH_NAME": "",
+        "ROLE_BEFORE_NAME": "",
+        "USER_BEFORE_NAME": "",
+        "USER_CLAIM": "",
+        "MASTER_PROCESS_TYPE": "",
+        "FULLNAME_UPDATED": "",
+        "DATE_COMPLETE_PROCESS": "2023-04-18T10:32:03.040+07:00",
+        "TOTAL_TIME_HADLE": 0,
+        "USER_APPROVED_CODE": "",
+        "FLAG_ACTIVE": "",
+        "TIER_BRN_CREATE": "",
+        "USER_UPDATE_NAME": "",
+        "CODE": "TEST",
+        "ACTION": "SUBMIT",
+        "USER_APPROVED_NAME": "",
+        "STATUS_UPDATE_NAME": "",
+        "DEPT_USER_CREATE_NAME": "",
+        "IS_COMPLETE": 0,
+        "FULLNAME_CREATED": "",
+        "DS_CB_XULY": [
+            {
+                "DEPT_CODE": "",
+                "BRANCH_CODE": "",
+                "STEP": 0,
+                "ROLE_NAME": "",
+                "USER_NAME": "",
+                "ROLE_CODE": "",
+                "FULLNAME": ""
+            }
+        ],
+        "TIME_COMPLETE_TASK": "2023-04-18T10:32:03.039+07:00"
+    },
+    "TT_YCK": {
+        "LUONG_NTIEP": {
+            "XUAT_MUON": 0,
+            "XUAT_TRA": 0,
+            "NHAP_KHO": 0,
+            "YC_KHAC": 0,
+            "DX_GIAINGAN": 0,
+            "YC_SOANTHAO": 0
+        },
+        "TT_YEUCAU": {
+            "CIF": "",
+            "SDT": "",
+            "HINHTHUC_PHEDUYET": "",
+            "DV_DENGHI": "",
+            "TEN_KH": "",
+            "MA_HOSO": "",
+            "CUSTOMER_CODE": "",
+            "CAP_UUTIEN": "",
+            "LOAI_KH": ""
+        },
+        "SOANTHAOHS": {
+            "STHS_KTS": 0,
+            "STHS_CVTPD": 0,
+            "STHS_RBTS": 0,
+            "STHS_ST_KHAC_CT": "",
+            "STHS_HSGC": 0,
+            "STHS_HSDA": 0,
+            "STHS_TSBDSX": 0,
+            "STHS_PLHD": 0,
+            "STHS_ST_KHAC": 0,
+            "STHS_DCLQKV": 0
+        },
+        "HACHTOAN": {
+            "HT_PHBL": 0,
+            "HT_THUPHI": 0,
+            "HT_XNTSBD": 0,
+            "HT_KTTHKBBH": 0,
+            "HT_DCLS": 0,
+            "HT_CSHD": 0,
+            "HT_HTKHAC": 0,
+            "HT_LKHDTSBD": 0,
+            "HT_THUNO": 0,
+            "HT_COCAUNO": 0,
+            "HT_XLTN": 0,
+            "HT_HTKHAC_CT": "",
+            "HT_CSTSBD": 0,
+            "HT_TNQH": 0
+        },
+        "CONGVIECKHAC": {
+            "CVK_CHIETTINHLAI": 0,
+            "CVK_BSHSSGN": 0,
+            "CVK_CONGVIECKHAC": 0,
+            "CVK_HSCT": 0,
+            "CVK_CVK_CT": "",
+            "CVK_IGBHDBT": 0
+        }
+    },
+    "KETQUA_RULE": {
+        "KETQUA_AM": "",
+        "KETQUA_ROUTING": ""
+    },
+    "TT_HOSO": {
+        "LOS_ECM_INFO": [
+            {
+                "iUpdate": false,
+                "code": "",
+                "ecmDocumentOption": {
+                    "parentFolderPath": "",
+                    "cmisQuery": ""
+                },
+                "label": "",
+                "object_Type": "",
+                "ECM_defaultProperties": [
+                    {
+                        "hidden": false,
+                        "editable": false,
+                        "name": "",
+                        "value": null
+                    }
+                ],
+                "iCreate": false,
+                "iDelete": false
+            }
+        ],
+        "DS_HOSO": [
+            {
+                "STT": 0,
+                "IREQUIRED": "",
+                "GROUP_DOC_CODE": "",
+                "REQUIRED_TIMING": "",
+                "GROUP_DOC_NAME": "",
+                "NOTE": "",
+                "ISFULL": 0
+            }
+        ]
+    }
+}

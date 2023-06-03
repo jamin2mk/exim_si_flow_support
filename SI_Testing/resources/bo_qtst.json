@@ -1,0 +1,962 @@
+{
+    "LOS_BPM_INFORMATION": {
+        "ROLE_BEFORE": "",
+        "REF_LOS_DOC": "",
+        "IS_ADJUST": 0,
+        "FUNCTION_BEFORE": "",
+        "DV_TAPTRUNG": 0,
+        "SLA": 0,
+        "DATE_CREATE_PROCESS": "2023-04-17T15:35:30.816+07:00",
+        "BRN_CODE_CREATE": "",
+        "STATUS_BEFORE_NAME": "",
+        "ROLE_UPDATE_NAME": "",
+        "FULLNAME_BEFORE": "",
+        "STATUS_UPDATE": "",
+        "ROLE_CREATED": "",
+        "USER_UPDATED": "",
+        "TOTAL_TIME_COMPLETE": 0,
+        "REF_BOTT": "",
+        "TASK_NAME": "",
+        "WORKFLOW_TYPE": "DXGN_DVKD",
+        "LAST_APPROVAL_ROLE_NAME": "",
+        "TIME_RECEIVE_TASK": "2023-04-17T15:35:30.815+07:00",
+        "BPM_TASK_ID": "",
+        "APPROVED_ACTION": "",
+        "BRANCH_LEVEL": "",
+        "LAST_APPROVED": "",
+        "TIME_PENDING": "2023-04-17T15:35:30.815+07:00",
+        "COMMENT_TASK_DETAIL": "",
+        "TIME_HANDLE_TASK": "2023-04-17T15:35:30.815+07:00",
+        "USER_CREATED_BRANCH_CODE": "",
+        "SLA_COMPLETE_TASK": "2023-04-17T15:35:30.816+07:00",
+        "PROVINCE_CREATE": "",
+        "BPM_INSTANCE_ID": "",
+        "USER_BEFORE": "",
+        "DATE_APPROVED": "2023-04-17T15:35:30.815+07:00",
+        "REF_DBM": "",
+        "COMMENT_TASK": "",
+        "ROLE_UPDATED": "",
+        "STATUS_BEFORE": "",
+        "TIME_ACTIVE": "2023-04-17T15:35:30.815+07:00",
+        "BRN_CODE": "",
+        "USRNAME_EXIM": "",
+        "DEPT_USER_CREATE_CODE": "",
+        "USER_CREATED": "",
+        "FUNCTION_UPDATE": "",
+        "USER_CREATED_BRANCH_NAME": "",
+        "ROLE_BEFORE_NAME": "",
+        "USER_BEFORE_NAME": "",
+        "USER_CLAIM": "",
+        "MASTER_PROCESS_TYPE": "",
+        "FULLNAME_UPDATED": "",
+        "DATE_COMPLETE_PROCESS": "2023-04-17T15:35:30.816+07:00",
+        "TOTAL_TIME_HADLE": 0,
+        "USER_APPROVED_CODE": "",
+        "FLAG_ACTIVE": "",
+        "TIER_BRN_CREATE": "",
+        "USER_UPDATE_NAME": "",
+        "CODE": "TEST4",
+        "ACTION": "SUBMIT",
+        "USER_APPROVED_NAME": "",
+        "STATUS_UPDATE_NAME": "",
+        "DEPT_USER_CREATE_NAME": "",
+        "IS_COMPLETE": 0,
+        "FULLNAME_CREATED": "",
+        "DS_CB_XULY": [
+            {
+                "DEPT_CODE": "",
+                "BRANCH_CODE": "",
+                "STEP": 0,
+                "ROLE_NAME": "",
+                "USER_NAME": "",
+                "ROLE_CODE": "",
+                "FULLNAME": ""
+            }
+        ],
+        "TIME_COMPLETE_TASK": "2023-04-17T15:35:30.815+07:00"
+    },
+    "TT_HO_SO": {
+        "LOS_ECM_INFO": [
+            {
+                "iUpdate": false,
+                "code": "",
+                "ecmDocumentOption": {
+                    "parentFolderPath": "",
+                    "cmisQuery": ""
+                },
+                "label": "",
+                "object_Type": "",
+                "ECM_defaultProperties": [
+                    {
+                        "hidden": false,
+                        "editable": false,
+                        "name": "",
+                        "value": null
+                    }
+                ],
+                "iCreate": false,
+                "iDelete": false
+            }
+        ],
+        "DS_HOSO": [
+            {
+                "STT": 0,
+                "IREQUIRED": "",
+                "GROUP_DOC_CODE": "",
+                "REQUIRED_TIMING": "",
+                "GROUP_DOC_NAME": "",
+                "NOTE": "",
+                "ISFULL": 0
+            }
+        ]
+    },
+    "KETQUA_RULE": {
+        "KETQUA_AM": "",
+        "KETQUA_ROUTING": ""
+    },
+    "DENGHI_STHAO_HD": {
+        "IS_HD_TSBD": 0,
+        "IS_HD_KHAC": 0,
+        "IS_HD_CTD": 0
+    },
+    "TT_DENGHI": {
+        "TT_YC_HDTSBD": [
+            {
+                "NV_BAODAM": "",
+                "STT": 0,
+                "LOAI_TSBD": "",
+                "DS_HDTD_SO": [
+                    {
+                        "NGAY": "",
+                        "SO": "",
+                        "LOAI_HD": ""
+                    }
+                ],
+                "ID_HD": "",
+                "TONG_NV_BAODAM": "",
+                "TONG_NV_BAODAM_KHAC": 0,
+                "GHICHU": "",
+                "HINHTHUC_SOHUU": "",
+                "TONG_NV_BAODAM_TSBD": 0
+            }
+        ],
+        "TONGSOTIEN_DENGHI": 0,
+        "TT_CACBEN_KI_HD": {
+            "CIF": "",
+            "HINHTHUC_PHEDUYET": "",
+            "DV_DENGHI": "",
+            "TEN_KH_CORE": "",
+            "YC_HONPHOI": 0,
+            "TEN_KH": "",
+            "CUSTOMER_CODE": "",
+            "CAP_UUTIEN": "",
+            "LOAI_KH": ""
+        },
+        "TT_YC_HDTINDUNG": [
+            {
+                "LAI_SUAT": "",
+                "PTHUC_GIAINGAN": "",
+                "SOTIEN_CTD": 0,
+                "ID_HD": "",
+                "PHI_BAOLANH": 0,
+                "THOIGIAN_CHOVAY_NGAY": 0,
+                "LOAI_HD": "",
+                "STT": 0,
+                "PHATTRUOC_HAN": 0,
+                "MUCPHI_PHAT": 0,
+                "THOIGIAN_BAOLANH": 0,
+                "SOTIEN_GIAINGAN_CK": 0,
+                "NGAY_TRA_GOC": 0,
+                "PHUONGTHUC_PHAT": "",
+                "NGUOI_THUHUONG_BL": "",
+                "PHUONGTHUC": "",
+                "THOIGIAN_CHOVAY_THANG": 0,
+                "SOTIEN_GIAINGAN_TM": 0,
+                "PHI_BAOLANH_TT": 0,
+                "LOAI_YC_PHAT": "",
+                "NGTAC_THUNOGOC_TH": "",
+                "NGAY_TRA_LAI": 0,
+                "PHI_RUTVON_KHAC": 0,
+                "TYGIA": 0,
+                "NGAY_VAY": "2023-04-17T15:35:30.801+07:00",
+                "LOAITIEN": "",
+                "TYLE_KYQUY": 0,
+                "HINHTHUC_GIAINGAN": "",
+                "SOTIEN_QUYDOI": 0,
+                "MOTA_GOITHAU": "",
+                "QUYDINH_PHI": 0,
+                "LOAI_PHI": "",
+                "TIEN_KYQUY": 0,
+                "DV_THOIHANVAY": "",
+                "DS_PTHUC_CHUYENKHOAN": [
+                    {
+                        "STK_THUHUONG": "",
+                        "TCTD": "",
+                        "SOTIEN": 0,
+                        "TEN_THUHUONG": "",
+                        "PTHUC_CHUYEN": ""
+                    }
+                ],
+                "PHI_CAMKET_RUTVON": "",
+                "THU_BAOLANH": ""
+            }
+        ],
+        "TT_YC_HDKHAC": [
+            {
+                "STT": 0,
+                "NOIDUNG_YC": "",
+                "ID_HD": "",
+                "MOTA_YC": ""
+            }
+        ],
+        "TT_THEM": {
+            "GHICHU": "",
+            "LYDO": ""
+        }
+    },
+    "TT_SOANTHAO": {
+        "TT_YC_HDTSBD": [
+            {
+                "THOIGIAN_THUCHIEN": "",
+                "TT_LUUGIU_HD": {
+                    "BQL_CHO": 0,
+                    "EXIM": 0,
+                    "KHACHHANG": 0,
+                    "TCCC_UBND": 0,
+                    "CQDK": 0,
+                    "TONGSO_HD": 0
+                },
+                "ID_HD": "",
+                "TT_BEN_CN": {
+                    "DAIDIEN_KH": "",
+                    "TT_DONGCN": {
+                        "TT_LIENLAC": [
+                            {
+                                "DIA_CHI_CUTHE": "",
+                                "QUOC_GIA": "",
+                                "QUAN_HUYEN": "",
+                                "XA_PHUONG": "",
+                                "TINH_TP": "",
+                                "LOAI_DIA_CHI": ""
+                            }
+                        ],
+                        "CIF": "",
+                        "TEN_KH_CODAU": "",
+                        "TEN_KH_CORE": "",
+                        "SO_DT": 0,
+                        "TT_DINHDANH": [
+                            {
+                                "LOAI_ID": "",
+                                "MAC_DINH": 0,
+                                "QG_CAP": "",
+                                "NGAY_CAP": "2023-04-17T15:35:30.809+07:00",
+                                "NGAY_HET_HAN": "2023-04-17T15:35:30.809+07:00",
+                                "SO_ID": "",
+                                "NOI_CAP": ""
+                            }
+                        ],
+                        "SO_ID": "",
+                        "ONG_BA": "",
+                        "NGAY_SINH": "2023-04-17T15:35:30.809+07:00"
+                    },
+                    "CIF": "",
+                    "TEN_DN": "",
+                    "DIACHI": "",
+                    "SO_DT": 0,
+                    "TT_DINHDANH": [
+                        {
+                            "LOAI_ID": "",
+                            "MAC_DINH": 0,
+                            "QG_CAP": "",
+                            "NGAY_CAP": "2023-04-17T15:35:30.809+07:00",
+                            "NGAY_HET_HAN": "2023-04-17T15:35:30.809+07:00",
+                            "SO_ID": "",
+                            "NOI_CAP": ""
+                        }
+                    ],
+                    "CHUC_VU": "",
+                    "ONG_BA": "",
+                    "TEN_CA_NHAN": "",
+                    "LOAI_KH": "",
+                    "NGDAIDIEN_KYHD": "",
+                    "TT_LIENLAC": [
+                        {
+                            "DIA_CHI_CUTHE": "",
+                            "QUOC_GIA": "",
+                            "QUAN_HUYEN": "",
+                            "XA_PHUONG": "",
+                            "TINH_TP": "",
+                            "LOAI_DIA_CHI": ""
+                        }
+                    ],
+                    "TEN_KH_CODAU": "",
+                    "YC_DONGCN": 0,
+                    "TEN_KH_CORE": "",
+                    "NGAY_CAP": "2023-04-17T15:35:30.808+07:00",
+                    "MASO_DN": "",
+                    "NGAY_SINH": "2023-04-17T15:35:30.809+07:00",
+                    "NOI_CAP": ""
+                },
+                "TONG_NV_BAODAM": "",
+                "HDTC": "",
+                "HDTC_NGAY": "2023-04-17T15:35:30.806+07:00",
+                "DK_PHONGTOA": 0,
+                "TONG_NV_BAODAM_TSBD": 0,
+                "NV_BAODAM": "",
+                "STT": 0,
+                "TT_DK_BPBD": {
+                    "HDBD_SO": "",
+                    "PTHUC_NHANKQ": "",
+                    "DIEN_TU": "",
+                    "YC_DK_HOTEN": "",
+                    "SO_DANG_KY": "",
+                    "YC_DK_SODT": 0,
+                    "CQ_DK_BPBD": "",
+                    "THOIDIEM_HIEULUC": "2023-04-17T15:35:30.806+07:00",
+                    "GIAYTO_KEMTHEO": "",
+                    "YC_DK_BD": 0,
+                    "MASO_TK_DKTT": "",
+                    "YC_DK_NHANBD": 0
+                },
+                "DS_HDTD_SO": [
+                    {
+                        "NGAY": "",
+                        "SO": "",
+                        "LOAI_HD": ""
+                    }
+                ],
+                "DS_TV_GTCG": [
+                    {
+                        "TCPH": "",
+                        "TT_V": [
+                            {
+                                "LOAI_TIEN": "",
+                                "GIA_TRI": 0,
+                                "LOAI_TS": "",
+                                "SO_LUONG": "",
+                                "CHUNG_TU": ""
+                            }
+                        ],
+                        "TYLE_TONG": 0,
+                        "TYLE_CTD": 0,
+                        "LOAI_GTCG": "",
+                        "TEN_CSH": "",
+                        "GIA_TRI": "",
+                        "SO_TIEN": 0,
+                        "TEN_TS": "",
+                        "HINHTHUC_SOHUU": "",
+                        "SO_TK": "",
+                        "TT_TGTCG": [
+                            {
+                                "TCPH": "",
+                                "LOAI_TIEN": 0,
+                                "GIA_TRI": 0,
+                                "SOTIEN_DB": 0,
+                                "SO_TK": "",
+                                "NGAY_DAO_HAN": "2023-04-17T15:35:30.812+07:00",
+                                "NGAY_PH": "2023-04-17T15:35:30.812+07:00"
+                            }
+                        ]
+                    }
+                ],
+                "TC_CONGCHUNG": "",
+                "DS_PTVT": [
+                    {
+                        "THOIHAN_HD": 0,
+                        "GIATRI": "",
+                        "GIA_TRI": 0,
+                        "TEN_TS": "",
+                        "HINHTHUC_SOHUU": "",
+                        "GIAY_BNTC_SO": "",
+                        "MO_TA_PTVT": "",
+                        "PTVT_KHAC": [
+                            {
+                                "YC_GIAY": 0,
+                                "CAP_PHUONG_TIEN": "",
+                                "CHU_SH": "",
+                                "TEN_PTVT_MOTA": "",
+                                "CQ_TIEPNHAN": "",
+                                "SO_DANG_KY": "",
+                                "YC_DIENTU": 0
+                            }
+                        ],
+                        "BAO_TRUOC_BEN_B": 0,
+                        "DEN_NGAY": "2023-04-17T15:35:30.812+07:00",
+                        "PTVT_DB": [
+                            {
+                                "SO_KHUNG": "",
+                                "YC_GIAY": 0,
+                                "SO_MAY": "",
+                                "BIEN_SO": "",
+                                "TEN_PTVT_MOTA": "",
+                                "CQ_TIEPNHAN": "",
+                                "YC_DIENTU": 0
+                            }
+                        ],
+                        "SO_DK_PTVT": "",
+                        "TEN_CSH": "",
+                        "NGAY_CAP": "2023-04-17T15:35:30.812+07:00",
+                        "SOLAN_CAPLAI": "",
+                        "NGAY_CAP_LAI": "2023-04-17T15:35:30.812+07:00",
+                        "TU_NGAY": "2023-04-17T15:35:30.812+07:00",
+                        "VANBANSO": "",
+                        "NOI_CAP": "",
+                        "BB_DINHGIA_TS_NGAY": "2023-04-17T15:35:30.812+07:00",
+                        "CHUNG_TU": ""
+                    }
+                ],
+                "LOAI_TSBD": "",
+                "LUONG_NTIEP": {
+                    "XUAT_MUON": 0,
+                    "XUAT_TRA": 0,
+                    "NHAP_KHO": 0,
+                    "YC_KHAC": 0,
+                    "DX_GIAINGAN": 0,
+                    "YC_SOANTHAO": 0
+                },
+                "DS_BDS": [
+                    {
+                        "TS_TRENDAT": {
+                            "DIENTICH_SAN": 0,
+                            "MUC_DICH": "",
+                            "DIA_CHI": "",
+                            "THOIHAN_SOHUU": "",
+                            "LOAI_TS": "",
+                            "CAP_HANG": "",
+                            "SO_TANG": 0,
+                            "TEN_NGUOI_SD": "",
+                            "DIENTICH_XD": 0,
+                            "KET_CAU": ""
+                        },
+                        "TS_HTTTL": {
+                            "MO_TA": "",
+                            "GIAY_TO": ""
+                        },
+                        "TS_CHCC": {
+                            "TANG": 0,
+                            "NAM_XD": "",
+                            "DIEN_TICH": 0,
+                            "DIA_CHI": "",
+                            "SO_TANG": "",
+                            "CANHO_SO": "",
+                            "KET_CAU": ""
+                        },
+                        "QSSD": {
+                            "HANCHE_SDD": "",
+                            "DIEN_TICH": 0,
+                            "TEN_GIAY_CN": "",
+                            "SO_GCN": "",
+                            "CO_QUAN_CAP": "",
+                            "DIEN_TICH_SDR": 0,
+                            "THUA_DAT_SO": 0,
+                            "NGUON_GOC": "",
+                            "CHITIET_BIENDONG_TS": "",
+                            "MUC_DICH": "",
+                            "THOIHAN_SD_CONLAI": 0,
+                            "BAN_DO_SO": 0,
+                            "NGAY_CAP": "2023-04-17T15:35:30.810+07:00",
+                            "DIA_CHI": "",
+                            "THOIHAN_SD": 0,
+                            "SO_VAOSO": "",
+                            "LO_OSO": "",
+                            "CAPNHAT_BIENDONG_TS": 0,
+                            "DIEN_TICH_SDC": 0
+                        },
+                        "TEN_CSH": "",
+                        "GIA_TRI_TSBD": "",
+                        "HINHTHUC_SOHUU": "",
+                        "QSH_SD_DDKD": {
+                            "DEN_NGAY": "2023-04-17T15:35:30.811+07:00",
+                            "DS_NH_KINHDDOANH": [
+                                {
+                                    "DIEN_TICH": 0,
+                                    "HESO_TL": 0,
+                                    "MA_SO": "",
+                                    "KICH_THUOC": 0,
+                                    "NGANHHANG_KD": ""
+                                }
+                            ],
+                            "SO_HD": "",
+                            "TU_NGAY": "2023-04-17T15:35:30.811+07:00",
+                            "BQLC": "",
+                            "NGAY_GOP_VON": "2023-04-17T15:35:30.811+07:00",
+                            "GIAYTO_SOHUU": ""
+                        },
+                        "LOAI_BDS": "",
+                        "TSTD_CCGCN": {
+                            "GHI_CHU": "",
+                            "TS_CCGCN": 0,
+                            "GIAYTO_LQ": "",
+                            "GIA_TRI": 0,
+                            "MO_TA": "",
+                            "MO_TA_THEM": "",
+                            "BB_DINHGIA_TS": "2023-04-17T15:35:30.811+07:00"
+                        },
+                        "TEN_TSBD": ""
+                    }
+                ],
+                "DS_QTS": [
+                    {
+                        "HDCN_BDS": {
+                            "TK_KYQUY": "",
+                            "NGAY_CONG_CHUNG": "2023-04-17T15:35:30.813+07:00",
+                            "CONG_CHUNG_TAI": "",
+                            "TIEN_THANHTOAN": 0,
+                            "GIA_TRI": 0,
+                            "NGAY_THOA_THUAN": "2023-04-17T15:35:30.813+07:00",
+                            "HD_SO": "",
+                            "MOTA_KHAC": "",
+                            "HD_KHAC": "",
+                            "TG_HTTT_TU": "2023-04-17T15:35:30.813+07:00",
+                            "TIEN_GIAINGAN": 0,
+                            "TIEN_VAY": 0,
+                            "MOTA_KHAIQUAT": "",
+                            "SO_CONG_CHUNG": "",
+                            "NGAY": "2023-04-17T15:35:30.813+07:00",
+                            "TG_HTTT_DEN": "2023-04-17T15:35:30.813+07:00",
+                            "TEN": "",
+                            "BB_DINHGIA_TS_NGAY": "2023-04-17T15:35:30.813+07:00"
+                        },
+                        "HDMB_CCGVNO": {
+                            "TANG": 0,
+                            "BANDO_SO": "",
+                            "CHU_DAU_TU": "",
+                            "GIA_TRI": 0,
+                            "NGAY_THOA_THUAN": "2023-04-17T15:35:30.814+07:00",
+                            "LO_SO": "",
+                            "TIEN_DA_TT": 0,
+                            "KET_CAU": "",
+                            "DAI_DIEN": "",
+                            "NGAY_CAP": "2023-04-17T15:35:30.813+07:00",
+                            "DIA_CHI": "",
+                            "NHAO_CH_SO": "",
+                            "NOICAP_GUQ": "",
+                            "DIEN_GIAI": "",
+                            "MA_SO_DN": "",
+                            "DIEN_TICH": 0,
+                            "CHUC_VU": "",
+                            "HD_SO": "",
+                            "O_SO": "",
+                            "GIAY_UYQUYEN_SO": "",
+                            "NGAYCAP_GUQ": "2023-04-17T15:35:30.813+07:00",
+                            "THUADAT_SO": "",
+                            "TT_QTS": [
+                                {
+                                    "GCN_QSDD": "",
+                                    "DUONG": "",
+                                    "SO_NHA": "",
+                                    "QUAN_HUYEN": "",
+                                    "XA_PHUONG": "",
+                                    "DIENTICH_SD": "",
+                                    "TINH_TP": ""
+                                }
+                            ],
+                            "NGAY_KY": "2023-04-17T15:35:30.813+07:00",
+                            "SO_TANG": 0,
+                            "BEN_BAN_NHAO": "",
+                            "NOI_CAP": "",
+                            "BB_DINHGIA_TS_NGAY": "2023-04-17T15:35:30.814+07:00"
+                        },
+                        "TEN_CSH": "",
+                        "GIA_TRI": "",
+                        "TEN_TS": "",
+                        "HINHTHUC_SOHUU": "",
+                        "LOAI_QTS": "",
+                        "TABLE_DSQTS": [
+                            {
+                                "TEN_CSH": "",
+                                "GIA_TRI": "",
+                                "TEN_TS": "",
+                                "HINHTHUC_SOHUU": ""
+                            }
+                        ]
+                    }
+                ],
+                "TONG_NV_BAODAM_TIEN": 0,
+                "HINHTHUC_SOHUU": "",
+                "TT_BEN_BD": {
+                    "DAIDIEN_KH": "",
+                    "CIF": "",
+                    "DIACHI": "",
+                    "SO_DT": 0,
+                    "TT_DINHDANH": [
+                        {
+                            "LOAI_ID": "",
+                            "MAC_DINH": 0,
+                            "QG_CAP": "",
+                            "NGAY_CAP": "2023-04-17T15:35:30.807+07:00",
+                            "NGAY_HET_HAN": "2023-04-17T15:35:30.807+07:00",
+                            "SO_ID": "",
+                            "NOI_CAP": ""
+                        }
+                    ],
+                    "CHUC_VU": "",
+                    "CHITIET_UYQUYEN": "",
+                    "TT_NGUOIHONPHOI": {
+                        "TT_LIENLAC": [
+                            {
+                                "DIA_CHI_CUTHE": "",
+                                "QUOC_GIA": "",
+                                "QUAN_HUYEN": "",
+                                "XA_PHUONG": "",
+                                "TINH_TP": "",
+                                "LOAI_DIA_CHI": ""
+                            }
+                        ],
+                        "CIF": "",
+                        "TEN_KH_CODAU": "",
+                        "TEN_KH_CORE": "",
+                        "SO_DT": 0,
+                        "TT_DINHDANH": [
+                            {
+                                "LOAI_ID": "",
+                                "MAC_DINH": 0,
+                                "QG_CAP": "",
+                                "NGAY_CAP": "2023-04-17T15:35:30.807+07:00",
+                                "NGAY_HET_HAN": "2023-04-17T15:35:30.807+07:00",
+                                "SO_ID": "",
+                                "NOI_CAP": ""
+                            }
+                        ],
+                        "SO_ID": "",
+                        "ONG_BA": "",
+                        "NGAY_SINH": "2023-04-17T15:35:30.807+07:00"
+                    },
+                    "EMAIL": "",
+                    "ONG_BA": "",
+                    "LOAI_KH": "",
+                    "NGDAIDIEN_KYHD": "",
+                    "DONG_SO_HUU": 0,
+                    "YC_NGUOIHONPHOI": 0,
+                    "TT_LIENLAC": [
+                        {
+                            "DIA_CHI_CUTHE": "",
+                            "QUOC_GIA": "",
+                            "QUAN_HUYEN": "",
+                            "XA_PHUONG": "",
+                            "TINH_TP": "",
+                            "LOAI_DIA_CHI": ""
+                        }
+                    ],
+                    "TEN_KH_CODAU": "",
+                    "TEN_KH_CORE": "",
+                    "NGAY_CAP": "2023-04-17T15:35:30.806+07:00",
+                    "MASO_DN": "",
+                    "UYQUYEN_KY_HS": 0,
+                    "NGAY_SINH": "2023-04-17T15:35:30.807+07:00",
+                    "DS_DONGSOHUU": [
+                        {
+                            "TT_LIENLAC": [
+                                {
+                                    "DIA_CHI_CUTHE": "",
+                                    "QUOC_GIA": "",
+                                    "QUAN_HUYEN": "",
+                                    "XA_PHUONG": "",
+                                    "TINH_TP": "",
+                                    "LOAI_DIA_CHI": ""
+                                }
+                            ],
+                            "CIF": "",
+                            "TEN_KH_CODAU": "",
+                            "TEN_KH_CORE": "",
+                            "SO_DT": 0,
+                            "TT_DINHDANH": [
+                                {
+                                    "LOAI_ID": "",
+                                    "MAC_DINH": 0,
+                                    "QG_CAP": "",
+                                    "NGAY_CAP": "2023-04-17T15:35:30.808+07:00",
+                                    "NGAY_HET_HAN": "2023-04-17T15:35:30.808+07:00",
+                                    "SO_ID": "",
+                                    "NOI_CAP": ""
+                                }
+                            ],
+                            "SO_ID": "",
+                            "ONG_BA": "",
+                            "NGAY_SINH": "2023-04-17T15:35:30.808+07:00"
+                        }
+                    ],
+                    "NOI_CAP": ""
+                },
+                "DIACHI_CONGCHUNG": "",
+                "DK_BPBD": 0,
+                "DS_HOSO_GIAONHAN": [
+                    {
+                        "TEN_HOSO": "",
+                        "NGAY_CAP": "2023-04-17T15:35:30.814+07:00",
+                        "SO_TRANG": 0,
+                        "COQUAN_CAP": "",
+                        "BAN_CHINH": "",
+                        "SO": "",
+                        "BAN_SAO": ""
+                    }
+                ],
+                "DK_CONGCHUNG": 0,
+                "KHONGTHUCHIEN_DK": 0
+            }
+        ],
+        "TT_CTD_KH": {
+            "DAIDIEN_KH": "",
+            "CIF": "",
+            "SDT": "",
+            "TT_DINHDANH": [
+                {
+                    "LOAI_ID": "",
+                    "MAC_DINH": 0,
+                    "QG_CAP": "",
+                    "NGAY_CAP": "2023-04-17T15:35:30.803+07:00",
+                    "NGAY_HET_HAN": "2023-04-17T15:35:30.803+07:00",
+                    "SO_ID": "",
+                    "NOI_CAP": ""
+                }
+            ],
+            "CHUC_VU": "",
+            "MA_DN": "",
+            "NGAYCAP": "2023-04-17T15:35:30.802+07:00",
+            "ONG_BA": "",
+            "LOAI_KH": "",
+            "NGDAIDIEN_KYHD": "",
+            "DIACHI_TRUSO": "",
+            "TT_LIENLAC": [
+                {
+                    "DIA_CHI_CUTHE": "",
+                    "QUOC_GIA": "",
+                    "QUAN_HUYEN": "",
+                    "XA_PHUONG": "",
+                    "TINH_TP": "",
+                    "LOAI_DIA_CHI": ""
+                }
+            ],
+            "TEN_KH_CODAU": "",
+            "TEN_KH_CORE": "",
+            "TT_VC_KH": {
+                "CIF": "",
+                "BEN_UQ": 0,
+                "CT_YQ": "",
+                "TEN_KH_CODAU": "",
+                "SDT": "",
+                "TT_DIACHI": [
+                    {
+                        "DIA_CHI_CUTHE": "",
+                        "QUOC_GIA": "",
+                        "QUAN_HUYEN": "",
+                        "XA_PHUONG": "",
+                        "TINH_TP": "",
+                        "LOAI_DIA_CHI": ""
+                    }
+                ],
+                "TEN_KH_CORE": "",
+                "TT_DINHDANH": [
+                    {
+                        "LOAI_ID": "",
+                        "MAC_DINH": 0,
+                        "QG_CAP": "",
+                        "NGAY_CAP": "2023-04-17T15:35:30.803+07:00",
+                        "NGAY_HET_HAN": "2023-04-17T15:35:30.803+07:00",
+                        "SO_ID": "",
+                        "NOI_CAP": ""
+                    }
+                ],
+                "ONG_BA": "",
+                "NGAY_SINH": "2023-04-17T15:35:30.803+07:00"
+            },
+            "NGAY_SINH": "2023-04-17T15:35:30.802+07:00",
+            "NOI_CAP": ""
+        },
+        "LUONG_NTIEP": {
+            "XUAT_MUON": 0,
+            "XUAT_TRA": 0,
+            "NHAP_KHO": 0,
+            "YC_KHAC": 0,
+            "DX_GIAINGAN": 0,
+            "YC_SOANTHAO": 0
+        },
+        "TT_CTD_EXIM": {
+            "CHUCVU": "",
+            "DIACHI": "",
+            "NGUOI_DAIDIEN": "",
+            "TT_DINHDANH": [
+                {
+                    "LOAI_ID": "",
+                    "MAC_DINH": 0,
+                    "QG_CAP": "",
+                    "NGAY_CAP": "2023-04-17T15:35:30.802+07:00",
+                    "NGAY_HET_HAN": "2023-04-17T15:35:30.802+07:00",
+                    "SO_ID": "",
+                    "NOI_CAP": ""
+                }
+            ],
+            "MASO_DN": "",
+            "NGAYCAP_UYQUYEN": "",
+            "NGAYCAP": "2023-04-17T15:35:30.802+07:00",
+            "DVKD": "",
+            "SO_DIENTHOAI": "",
+            "ONG_BA": "",
+            "NOICAP": "",
+            "GIAY_UYQUYEN": ""
+        },
+        "TT_YC_HDTINDUNG": [
+            {
+                "TLKQ_HANGHOA": [
+                    {
+                        "STT": 0,
+                        "LOAI_HANG": "",
+                        "TYLE_KYQUY": 0
+                    }
+                ],
+                "DK_NGHIAVU_BL": "",
+                "PHI_BAOLANH": 0,
+                "CHUNGTU_LQ": "",
+                "CHUNGTU_BOSUNG": 0,
+                "SOLUONG_HD": 0,
+                "CHITIET_CT_BS": "",
+                "NGHIAVU_BAOLANH": "",
+                "LOAI_HD": "",
+                "STT": 0,
+                "CHITIET_CT_CC": "",
+                "TRA_GOC_KHAC": "",
+                "NGAY_HIEU_LUC": "",
+                "NGUOI_THUHUONG_BL": "",
+                "MUCDICH_SD_VON": [
+                    {
+                        "CODE_1": "",
+                        "CODE_6": "",
+                        "CODE_3": "",
+                        "CODE_2": "",
+                        "CODE_5": "",
+                        "CODE_4": ""
+                    }
+                ],
+                "KY_CACHNHAU": 0,
+                "TRALAI_CUOICUNG": "2023-04-17T15:35:30.804+07:00",
+                "LOAI_YC_PHAT": "",
+                "VAYTUNGLAN": {
+                    "THOIHAN_CHOVAY": "",
+                    "THOIGIAN_ANHAN": "",
+                    "THOIHAN_CHOVAY_THANG": 0,
+                    "THOIHAN_GN": "2023-04-17T15:35:30.804+07:00",
+                    "THOIHAN_CHOVAY_NGAY": 0
+                },
+                "TTD_TRANGAY": 0,
+                "THULAI_CHIETKHAU": "",
+                "NGONNGU_BL": "",
+                "TYGIA": 0,
+                "CHUKY_LAISUAT": "",
+                "SOTIEN_QUYDOI": 0,
+                "TIEN_KYQUY": 0,
+                "TLKQ_LOHANG": 0,
+                "PHI_RUTVON_QUYDINH": 0,
+                "THOIGIAN_DAU": 0,
+                "NGAY_HH_CU_THE_DD": "2023-04-17T15:35:30.805+07:00",
+                "MOTA_TSBD": "",
+                "VAYHANMUC": {
+                    "THOIHAN_CHOVAY_THANG": 0,
+                    "THOIHAN_DUYTRI": "2023-04-17T15:35:30.804+07:00",
+                    "THOIHAN_CHOVAY_NGAY": 0
+                },
+                "HD_TCCC": 0,
+                "HD_EXIM": 0,
+                "PHUONGTHUC": "",
+                "DINHKY_DIEUCHINH_SAU": 0,
+                "TIEN_VANG_GTCG": 0,
+                "VAYTUNGLAN_GN1LAN": {
+                    "THOIHAN_CHOVAY": "",
+                    "LAI_SUAT": "",
+                    "NGAY_VAY": "2023-04-17T15:35:30.804+07:00",
+                    "THOIGIAN_ANHAN": "",
+                    "THOIHAN_GN_DT": 0,
+                    "NGAY_TRA_GOC": 0,
+                    "NGAY_HETHAN": "2023-04-17T15:35:30.804+07:00",
+                    "THOIHAN_GN_DT_CT": "",
+                    "NGAY_TRA_LAI": 0,
+                    "THOIHAN_GN": "2023-04-17T15:35:30.804+07:00"
+                },
+                "NGTAC_THUNOGOC_TH": "",
+                "PTHUC_GN_CK": 0,
+                "PHI_RUTVON_KHAC": 0,
+                "NGUYENTAC_DC": "",
+                "DK_KHAC": "",
+                "DUNG_SAI": 0,
+                "TRALAI_DAUTIEN": "2023-04-17T15:35:30.804+07:00",
+                "TG_PHATHANH_TTD": 0,
+                "HINHTHUC_GIAINGAN": "",
+                "MUCDICH_CTD": "",
+                "TTD_TUNGAY": "",
+                "DV_THOIHANVAY": 0,
+                "TRA_MOI_KY": 0,
+                "ID_HD": "",
+                "CHUNGTU_CUNGCAP": 0,
+                "DINHKY_DIEUCHINH": 0,
+                "NGAY_HL_SU_KIEN": "",
+                "TGT_TS_TT": 0,
+                "TTD_DENNGAY": "",
+                "HD_KH": 0,
+                "HANMUC_CHITIET": "",
+                "NGAY_HH_SU_KIEN": 0,
+                "PHUONGTHUC_PHAT": "",
+                "THOIHAN_BAOLANH": "",
+                "CT_SD_VON": "",
+                "TYLE_KYQUY_RB": "",
+                "SOTIEN_GIAINGAN_TM": 0,
+                "PHI_BAOLANH_TT": 0,
+                "COQUAN_GIAIQUYET": "",
+                "MOTA": "",
+                "TRA_LAI_KHAC": "",
+                "TT_DINHDANH_NTH": [
+                    {
+                        "LOAI_ID": "",
+                        "MAC_DINH": 0,
+                        "QG_CAP": "",
+                        "NGAY_CAP": "2023-04-17T15:35:30.805+07:00",
+                        "NGAY_HET_HAN": "2023-04-17T15:35:30.805+07:00",
+                        "SO_ID": "",
+                        "NOI_CAP": ""
+                    }
+                ],
+                "LOAITIEN": "",
+                "THU_BAOLANH": "",
+                "KY_HAN_GOC": "",
+                "SOTIEN_CTD": 0,
+                "DS_TIEN_VANG_GTCG": [
+                    {
+                        "TEN_CSH": "",
+                        "GIA_TRI": 0,
+                        "HINHTHUC_SOHUU": "",
+                        "TEN_TSBD": ""
+                    }
+                ],
+                "LAISUAT_CHOVAY": 0,
+                "PHATTRUOC_HAN": 0,
+                "MUCPHI_PHAT": 0,
+                "TTD_TRACHAM": 0,
+                "KY_HAN_LAI": "",
+                "THOIHAN_BL_HANMUC": "",
+                "TRAKY_CUOICUNG": "2023-04-17T15:35:30.804+07:00",
+                "NGAY_HH_SU_KIEN_MOTA": "",
+                "DIACHI_NGUOITH": "",
+                "NGAY_TRA_LAI": "2023-04-17T15:35:30.804+07:00",
+                "NGAY_HL_CU_THE": "2023-04-17T15:35:30.805+07:00",
+                "NGAY_HH_CU_THE": 0,
+                "TRAKY_DAUTIEN": "2023-04-17T15:35:30.804+07:00",
+                "DV_BANHANH": "",
+                "TYLE_KYQUY": 0,
+                "CK_LAISUAT": "",
+                "NGUYENTAC_KHAC": "",
+                "QUYDINH_PHI": 0,
+                "HD_CQDK": 0,
+                "LOAI_PHI": "",
+                "PTHUC_GN_TIENMAT": 0,
+                "DS_PTHUC_CHUYENKHOAN": [
+                    {
+                        "STK_THUHUONG": "",
+                        "TCTD": "",
+                        "SOTIEN": 0,
+                        "TEN_THUHUONG": "",
+                        "PTHUC_CHUYEN": ""
+                    }
+                ],
+                "PHI_CAMKET_RUTVON": 0
+            }
+        ]
+    }
+}

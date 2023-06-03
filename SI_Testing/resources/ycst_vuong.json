@@ -1,0 +1,1809 @@
+{
+    "data": {
+        "LOS_BPM_INFORMATION": {
+            "ROLE_BEFORE": "",
+            "REF_LOS_DOC": "",
+            "IS_ADJUST": 0,
+            "FUNCTION_BEFORE": "",
+            "DV_TAPTRUNG": 2,
+            "SLA": 180,
+            "DATE_CREATE_PROCESS": "2023-05-31T16:09:39.000+07:00",
+            "BRN_CODE_CREATE": "1208",
+            "STATUS_BEFORE_NAME": "Kiểm soát",
+            "ROLE_UPDATE_NAME": "Cán bộ Hỗ trợ tín dụng Đơn vị kinh doanh",
+            "TOTAL_TIME_HANDLE": 1486,
+            "FULLNAME_BEFORE": "",
+            "STATUS_UPDATE": "STA04",
+            "ROLE_CREATED": "RM_R",
+            "USER_UPDATED": "BOM_DVKD_1208_01",
+            "TOTAL_TIME_COMPLETE": 1487,
+            "REF_BOTT": "",
+            "TASK_NAME": "",
+            "BRN_PHONE_CREATE": "",
+            "WORKFLOW_TYPE": "YCST_DVKD",
+            "LAST_APPROVAL_ROLE_NAME": "Kiểm soát Hỗ trợ tín dụng Đơn vị kinh doanh 2",
+            "TIME_RECEIVE_TASK": "2023-06-03T16:20:41.891+07:00",
+            "BPM_TASK_ID": "25414",
+            "APPROVED_ACTION": "",
+            "BRANCH_LEVEL": "",
+            "LAST_APPROVED": "BOC2_DVKD",
+            "COMMENT_TASK_DETAIL": "sdsd",
+            "TIME_HANDLE_TASK": "2023-06-03T16:21:41.432+07:00",
+            "USER_CREATED_BRANCH_CODE": "1208",
+            "SLA_COMPLETE_TASK": "2023-06-05T10:30:00.000+07:00",
+            "PROVINCE_CREATE": "",
+            "BPM_INSTANCE_ID": "10119",
+            "USER_BEFORE": "",
+            "REF_DBM": "",
+            "COMMENT_TASK": "",
+            "ROLE_UPDATED": "BOM_DVKD",
+            "STATUS_BEFORE": "STA05",
+            "BRN_CODE": "1208",
+            "USRNAME_EXIM": "",
+            "DEPT_USER_CREATE_CODE": "",
+            "USER_CREATED": "RM_R_1208_01",
+            "FUNCTION_UPDATE": "INPUT",
+            "USER_CREATED_BRANCH_NAME": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+            "ROLE_BEFORE_NAME": "",
+            "USER_BEFORE_NAME": "",
+            "USER_CLAIM": "BOM_DVKD_1208_01",
+            "MASTER_PROCESS_TYPE": "YCST",
+            "FULLNAME_UPDATED": "INPUT",
+            "USER_APPROVED_CODE": "",
+            "FLAG_ACTIVE": "",
+            "TIER_BRN_CREATE": "TIER05",
+            "USER_UPDATE_NAME": "Cán bộ Hỗ trợ tín dụng Đơn vị kinh doanh_01",
+            "BRN_ADDRESS_CREATE": "",
+            "CODE": "1208.ST.23.002143",
+            "ACTION": "RETURN",
+            "USER_APPROVED_NAME": "",
+            "STATUS_UPDATE_NAME": "Bổ sung",
+            "WF_TYPE_NAME": "Đơn vị kinh doanh",
+            "DEPT_USER_CREATE_NAME": "",
+            "IS_COMPLETE": 0,
+            "FULLNAME_CREATED": "",
+            "DS_CB_XULY": [
+                {
+                    "DEPT_CODE": "",
+                    "BRANCH_CODE": "1208",
+                    "STEP": 1,
+                    "ROLE_NAME": "Cán bộ Quan hệ khách hàng cá nhân",
+                    "USER_NAME": "RM_R_1208_01",
+                    "ROLE_CODE": "RM_R",
+                    "FULLNAME": "Cán bộ Quan hệ khách hàng cá nhân"
+                }
+            ],
+            "TIME_COMPLETE_TASK": "2023-06-03T16:20:11.000+07:00"
+        },
+        "TT_HO_SO": {
+            "LOS_ECM_INFO": [
+                {
+                    "ecmDocumentOption": {
+                        "parentFolderPath": "/EXIM/KH_CN/GROUP_CF_LEVEL_1_0-500000/GROUP_CF_LEVEL_2_0-5000/GROUP_CF_LEVEL_3_2851-2900/CF0002886/LEGAL",
+                        "cmisQuery": "SELECT cmis:contentStreamFileName, cmis:objectId,docType , cmis:lastModificationDate ,User_Update  FROM LEGAL where DocCode='1208.ST.23.002143'"
+                    },
+                    "label": "Hồ sơ pháp lý",
+                    "ECM_defaultProperties": [
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "AppID",
+                            "value": "BOTT"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "AppVer",
+                            "value": "BOTT_v1,0"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "ApplicationName",
+                            "value": "Quy trình BO-TT"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "Type",
+                            "value": "OTHER"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocName",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocCode",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "ProcessCode",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "cmis:name",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "User_Create",
+                            "value": "BOC1_DVKD_1208_01"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "User_Update",
+                            "value": "BOC1_DVKD_1208_01"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocumentTitle",
+                            "value": "Hồ sơ khác"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "Description",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "IsReserved",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustomerName",
+                            "value": "LA KIM VI"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustomerType",
+                            "value": "CN"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "IdentityNum",
+                            "value": "NULL"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "isDrafts",
+                            "value": 1
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustCode",
+                            "value": "CF0002886"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustName",
+                            "value": "LA KIM VI"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CIF",
+                            "value": "100173777"
+                        }
+                    ]
+                },
+                {
+                    "ecmDocumentOption": {
+                        "parentFolderPath": "/EXIM/KH_CN/GROUP_CF_LEVEL_1_0-500000/GROUP_CF_LEVEL_2_0-5000/GROUP_CF_LEVEL_3_2851-2900/CF0002886/CREDIT",
+                        "cmisQuery": "SELECT cmis:contentStreamFileName, cmis:objectId,docType , cmis:lastModificationDate , User_Update FROM CREDIT where DocCode='1208.ST.23.002143'"
+                    },
+                    "label": "Hồ sơ cấp tín dụng",
+                    "ECM_defaultProperties": [
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "AppID",
+                            "value": "BOTT"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "AppVer",
+                            "value": "BOTT_v1,0"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "ApplicationName",
+                            "value": "Quy trình BO-TT"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "Type",
+                            "value": "OTHER"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocName",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocCode",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "ProcessCode",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "cmis:name",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "User_Create",
+                            "value": "BOC1_DVKD_1208_01"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "User_Update",
+                            "value": "BOC1_DVKD_1208_01"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocumentTitle",
+                            "value": "Hồ sơ khác"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "Description",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "IsReserved",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustomerName",
+                            "value": "LA KIM VI"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustomerType",
+                            "value": "CN"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "IdentityNum",
+                            "value": "NULL"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "isDrafts",
+                            "value": 1
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustCode",
+                            "value": "CF0002886"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustName",
+                            "value": "LA KIM VI"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CIF",
+                            "value": "100173777"
+                        }
+                    ]
+                },
+                {
+                    "ecmDocumentOption": {
+                        "parentFolderPath": "/EXIM/KH_CN/GROUP_CF_LEVEL_1_0-500000/GROUP_CF_LEVEL_2_0-5000/GROUP_CF_LEVEL_3_2851-2900/CF0002886/FINANCE",
+                        "cmisQuery": "select cmis:contentStreamFileName, cmis:objectId,docType , cmis:lastModificationDate , User_Update FROM FINANCE where DocCode='1208.ST.23.002143'"
+                    },
+                    "label": "Hồ sơ tài chính",
+                    "ECM_defaultProperties": [
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "AppID",
+                            "value": "BOTT"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "AppVer",
+                            "value": "BOTT_v1,0"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "ApplicationName",
+                            "value": "Quy trình BO-TT"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "Type",
+                            "value": "OTHER"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocName",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocCode",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "ProcessCode",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "cmis:name",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "User_Create",
+                            "value": "BOC1_DVKD_1208_01"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "User_Update",
+                            "value": "BOC1_DVKD_1208_01"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocumentTitle",
+                            "value": "Hồ sơ khác"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "Description",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "IsReserved",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustomerName",
+                            "value": "LA KIM VI"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustomerType",
+                            "value": "CN"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "IdentityNum",
+                            "value": "NULL"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "isDrafts",
+                            "value": 1
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustCode",
+                            "value": "CF0002886"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustName",
+                            "value": "LA KIM VI"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CIF",
+                            "value": "100173777"
+                        }
+                    ]
+                },
+                {
+                    "ecmDocumentOption": {
+                        "parentFolderPath": "/EXIM/KH_CN/GROUP_CF_LEVEL_1_0-500000/GROUP_CF_LEVEL_2_0-5000/GROUP_CF_LEVEL_3_2851-2900/CF0002886/COLLATERAL",
+                        "cmisQuery": "SELECT cmis:contentStreamFileName, cmis:objectId,docType ,cmis:lastModificationDate  ,User_Update FROM COLLATERAL where DocCode='1208.ST.23.002143'"
+                    },
+                    "label": "Hồ sơ TSBĐ",
+                    "ECM_defaultProperties": [
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "AppID",
+                            "value": "BOTT"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "AppVer",
+                            "value": "BOTT_v1,0"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "ApplicationName",
+                            "value": "Quy trình BO-TT"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "Type",
+                            "value": "OTHER"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocName",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocCode",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "ProcessCode",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "cmis:name",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "User_Create",
+                            "value": "BOC1_DVKD_1208_01"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "User_Update",
+                            "value": "BOC1_DVKD_1208_01"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocumentTitle",
+                            "value": "Hồ sơ khác"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "Description",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "IsReserved",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustomerName",
+                            "value": "LA KIM VI"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustomerType",
+                            "value": "CN"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "IdentityNum",
+                            "value": "NULL"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "isDrafts",
+                            "value": 1
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustCode",
+                            "value": "CF0002886"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustName",
+                            "value": "LA KIM VI"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CIF",
+                            "value": "100173777"
+                        }
+                    ]
+                },
+                {
+                    "ecmDocumentOption": {
+                        "parentFolderPath": "/EXIM/KH_CN/GROUP_CF_LEVEL_1_0-500000/GROUP_CF_LEVEL_2_0-5000/GROUP_CF_LEVEL_3_2851-2900/CF0002886/DISBURSEMENT",
+                        "cmisQuery": "SELECT cmis:contentStreamFileName, cmis:objectId,docType , cmis:lastModificationDate ,User_Update   FROM DISBURSEMENT where DocCode='1208.ST.23.002143'"
+                    },
+                    "label": "Hồ sơ giải ngân",
+                    "ECM_defaultProperties": [
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "AppID",
+                            "value": "BOTT"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "AppVer",
+                            "value": "BOTT_v1,0"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "ApplicationName",
+                            "value": "Quy trình BO-TT"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "Type",
+                            "value": "OTHER"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocName",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocCode",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "ProcessCode",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "cmis:name",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "User_Create",
+                            "value": "BOC1_DVKD_1208_01"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "User_Update",
+                            "value": "BOC1_DVKD_1208_01"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocumentTitle",
+                            "value": "Hồ sơ khác"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "Description",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "IsReserved",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustomerName",
+                            "value": "LA KIM VI"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustomerType",
+                            "value": "CN"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "IdentityNum",
+                            "value": "NULL"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "isDrafts",
+                            "value": 1
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustCode",
+                            "value": "CF0002886"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustName",
+                            "value": "LA KIM VI"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CIF",
+                            "value": "100173777"
+                        }
+                    ]
+                },
+                {
+                    "ecmDocumentOption": {
+                        "parentFolderPath": "/EXIM/KH_CN/GROUP_CF_LEVEL_1_0-500000/GROUP_CF_LEVEL_2_0-5000/GROUP_CF_LEVEL_3_2851-2900/CF0002886/OTHER",
+                        "cmisQuery": "SELECT cmis:contentStreamFileName, cmis:objectId,docType , cmis:lastModificationDate ,User_Update FROM OTHER where DocCode='1208.ST.23.002143'"
+                    },
+                    "label": "Hồ sơ khác",
+                    "ECM_defaultProperties": [
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "AppID",
+                            "value": "BOTT"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "AppVer",
+                            "value": "BOTT_v1,0"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "ApplicationName",
+                            "value": "Quy trình BO-TT"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "Type",
+                            "value": "OTHER"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocName",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocCode",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "ProcessCode",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "cmis:name",
+                            "value": "1208.ST.23.002143"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "User_Create",
+                            "value": "BOC1_DVKD_1208_01"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "User_Update",
+                            "value": "BOC1_DVKD_1208_01"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "DocumentTitle",
+                            "value": "Hồ sơ khác"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "Description",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "IsReserved",
+                            "value": ""
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustomerName",
+                            "value": "LA KIM VI"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustomerType",
+                            "value": "CN"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "IdentityNum",
+                            "value": "NULL"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "isDrafts",
+                            "value": 1
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustCode",
+                            "value": "CF0002886"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CustName",
+                            "value": "LA KIM VI"
+                        },
+                        {
+                            "hidden": true,
+                            "editable": false,
+                            "name": "CIF",
+                            "value": "100173777"
+                        }
+                    ]
+                }
+            ],
+            "DS_HOSO": [
+                {
+                    "STT": 0,
+                    "IREQUIRED": "",
+                    "GROUP_DOC_CODE": "LEGAL",
+                    "REQUIRED_TIMING": "",
+                    "GROUP_DOC_NAME": "Hồ sơ pháp lý",
+                    "NOTE": "",
+                    "ISFULL": 0
+                },
+                {
+                    "STT": 0,
+                    "IREQUIRED": "",
+                    "GROUP_DOC_CODE": "CREDIT",
+                    "REQUIRED_TIMING": "",
+                    "GROUP_DOC_NAME": "Hồ sơ cấp tín dụng",
+                    "NOTE": "",
+                    "ISFULL": 0
+                },
+                {
+                    "STT": 0,
+                    "IREQUIRED": "",
+                    "GROUP_DOC_CODE": "FINANCE",
+                    "REQUIRED_TIMING": "",
+                    "GROUP_DOC_NAME": "Hồ sơ tài chính",
+                    "NOTE": "",
+                    "ISFULL": 0
+                },
+                {
+                    "STT": 0,
+                    "IREQUIRED": "",
+                    "GROUP_DOC_CODE": "COLLATERAL",
+                    "REQUIRED_TIMING": "",
+                    "GROUP_DOC_NAME": "Hồ sơ TSBĐ",
+                    "NOTE": "",
+                    "ISFULL": 0
+                },
+                {
+                    "STT": 0,
+                    "IREQUIRED": "",
+                    "GROUP_DOC_CODE": "DISBURSEMENT",
+                    "REQUIRED_TIMING": "",
+                    "GROUP_DOC_NAME": "Hồ sơ giải ngân",
+                    "NOTE": "",
+                    "ISFULL": 0
+                },
+                {
+                    "STT": 0,
+                    "IREQUIRED": "",
+                    "GROUP_DOC_CODE": "OTHER",
+                    "REQUIRED_TIMING": "",
+                    "GROUP_DOC_NAME": "Hồ sơ khác",
+                    "NOTE": "",
+                    "ISFULL": 0
+                }
+            ]
+        },
+        "KETQUA_RULE": {
+            "KETQUA_AM": "{\"approval\":\"BOC2_DVKD\",\"workflowType\":\"YCST_DVKD\"}",
+            "KETQUA_ROUTING": "[{\"step\":1,\"stepCode\":\"STEP001\",\"lane\":\"INPUT\",\"role\":\"RM_R\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":2,\"stepCode\":\"STEP002\",\"lane\":\"REVIEW\",\"role\":\"RMTL2_R\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":3,\"stepCode\":\"STEP003\",\"lane\":\"REVIEW\",\"role\":\"BOD_DVKD\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":4,\"stepCode\":\"STEP004\",\"lane\":\"INPUT\",\"role\":\"BOM_DVKD\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":5,\"stepCode\":\"STEP005\",\"lane\":\"REVIEW\",\"role\":\"BOC1_DVKD\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":6,\"stepCode\":\"STEP006\",\"lane\":\"REVIEW\",\"role\":\"BOC2_DVKD\",\"skipStep\":2,\"isSameBrn\":1},{\"step\":7,\"stepCode\":\"STEP007\",\"lane\":\"INPUT\",\"role\":\"RM_R\",\"skipStep\":2,\"isSameBrn\":1}]"
+        },
+        "DENGHI_STHAO_HD": {
+            "IS_HD_TSBD": 1,
+            "IS_HD_KHAC": 0,
+            "IS_HD_CTD": 1
+        },
+        "YKIEN_KSOAT_PDUYET": [
+            {
+                "RETURN_CODE": "LDCTDVKDRM03",
+                "STATUS_CODE": "STA05",
+                "ROLE_NAME": "Kiểm soát Hỗ trợ tín dụng Đơn vị kinh doanh 1",
+                "ROLE_CODE": "BOC1_DVKD",
+                "STATUS_NAME": "Kiểm soát",
+                "ACTION_NAME": "Chuyển trả",
+                "DESCRIPTIONS": "sdsd",
+                "DATE": "2023-06-03T16:19:24.000+07:00",
+                "ACTION": "RETURN",
+                "FULL_NAME": "Kiểm soát Hỗ trợ tín dụng Đơn vị kinh doanh 1"
+            }
+        ],
+        "TT_DENGHI": {
+            "TT_YC_HDTSBD": [
+                {
+                    "NV_BAODAM": "2",
+                    "STT": "",
+                    "LOAI_TSBD": "TSBD03",
+                    "DS_HDTD_SO": [
+                        {
+                            "NGAY": "30/05/2023",
+                            "SO": "123",
+                            "LOAI_HD": "Hợp đồng cụ thể số 1"
+                        },
+                        {
+                            "NGAY": "23/05/2023",
+                            "SO": "45612/05/2023",
+                            "LOAI_HD": "Hợp đồng cụ thể số 2"
+                        },
+                        {
+                            "NGAY": "12/06/2023",
+                            "SO": "789",
+                            "LOAI_HD": "Hợp đồng cụ thể số 3"
+                        }
+                    ],
+                    "ID_HD": "ST1685524474844",
+                    "TONG_NV_BAODAM": "1",
+                    "TONG_NV_BAODAM_KHAC": 0,
+                    "GHICHU": "Ghi chú cho hợp đồng 1",
+                    "HINHTHUC_SOHUU": "HTSHTS01",
+                    "TONG_NV_BAODAM_TSBD": 12000000000
+                },
+                {
+                    "NV_BAODAM": "1",
+                    "STT": "",
+                    "LOAI_TSBD": "TSBD03",
+                    "DS_HDTD_SO": [
+                        {
+                            "NGAY": "",
+                            "SO": "",
+                            "LOAI_HD": ""
+                        }
+                    ],
+                    "ID_HD": "ST1685524552936",
+                    "TONG_NV_BAODAM": "2",
+                    "TONG_NV_BAODAM_KHAC": 5000000,
+                    "GHICHU": "Ghi chú cho hợp đồng thứ 2",
+                    "HINHTHUC_SOHUU": "HTSHTS02",
+                    "TONG_NV_BAODAM_TSBD": 5000000
+                }
+            ],
+            "TONGSOTIEN_DENGHI": 12055000000,
+            "TT_CACBEN_KI_HD": {
+                "CIF": "100173777",
+                "HINHTHUC_PHEDUYET": "2",
+                "DV_DENGHI": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+                "TEN_KH_CORE": "LA KIM VI",
+                "YC_HONPHOI": 1,
+                "CUSTOMER_IDENTITY": "NULL",
+                "TEN_KH": "LÃ KIM VỊ",
+                "CUSTOMER_CODE": "CF0002886",
+                "CAP_UUTIEN": "2",
+                "LOAI_KH": "CN"
+            },
+            "TT_YC_HDTINDUNG": [
+                {
+                    "LAI_SUAT": "Theo quy định của Eximbank",
+                    "SOTIEN_CTD": 50000000,
+                    "ID_HD": "ST1685524237427",
+                    "PHI_CAMKET_RUTVON_KHAC": 0,
+                    "LOAI_HD": "LOAIHDTD01",
+                    "STT": "",
+                    "PHATTRUOC_HAN": 1,
+                    "PHUONGTHUC_PHAT": "2",
+                    "PHUONGTHUC": "HANMUC",
+                    "SOTIEN_GIAINGAN_TM": 0,
+                    "PHI_KHAC": 1,
+                    "LOAI_YC_PHAT": "2",
+                    "NGTAC_THUNOGOC_TH": "3",
+                    "PHI_RUTVON_KHAC": "Quy định sản phẩm",
+                    "TYGIA": 1,
+                    "LOAITIEN": "VND",
+                    "TYLE_KYQUY": 0,
+                    "HINHTHUC_GIAINGAN": "",
+                    "SOTIEN_QUYDOI": 50000000,
+                    "QUYDINH_PHI": 1,
+                    "LOAI_PHI": "1",
+                    "DS_PTHUC_CHUYENKHOAN": [],
+                    "PHI_CAMKET_RUTVON": 1
+                }
+            ],
+            "TT_YC_HDKHAC": [],
+            "TT_THEM": {
+                "GHICHU": "Ghi chú 12 3 4 5",
+                "LYDO": "Lập đề nghị cho thuyntd"
+            }
+        },
+        "TT_SOANTHAO": {
+            "TT_YC_HDTSBD": [
+                {
+                    "TT_LUUGIU_HD": {
+                        "BQL_CHO": 1,
+                        "EXIM": 1,
+                        "KHACHHANG": 1,
+                        "TCCC_UBND": 1,
+                        "CQDK": 1,
+                        "TONGSO_HD": 4
+                    },
+                    "ID_HD": "ST1685524474844",
+                    "TT_BEN_CN": {
+                        "TT_DONGCN": {
+                            "TT_LIENLAC": [
+                                {
+                                    "DIA_CHI_CUTHE": "",
+                                    "QUOC_GIA": "VNM",
+                                    "QUAN_HUYEN": "",
+                                    "XA_PHUONG": "",
+                                    "TINH_TP": "",
+                                    "LOAI_DIA_CHI": "DCLIENHE"
+                                },
+                                {
+                                    "DIA_CHI_CUTHE": "",
+                                    "QUOC_GIA": "VNM",
+                                    "QUAN_HUYEN": "",
+                                    "XA_PHUONG": "",
+                                    "TINH_TP": "",
+                                    "LOAI_DIA_CHI": "HKTHUONGTRU"
+                                }
+                            ],
+                            "TT_DINHDANH": [
+                                {
+                                    "LOAI_ID": "CMND",
+                                    "QG_CAP": "VNM"
+                                }
+                            ]
+                        },
+                        "TT_DINHDANH": [
+                            {
+                                "LOAI_ID": "CMND",
+                                "QG_CAP": "VNM"
+                            }
+                        ],
+                        "TT_LIENLAC": [
+                            {
+                                "DIA_CHI_CUTHE": "",
+                                "QUOC_GIA": "VNM",
+                                "QUAN_HUYEN": "",
+                                "XA_PHUONG": "",
+                                "TINH_TP": "",
+                                "LOAI_DIA_CHI": "DCLIENHE"
+                            },
+                            {
+                                "DIA_CHI_CUTHE": "",
+                                "QUOC_GIA": "VNM",
+                                "QUAN_HUYEN": "",
+                                "XA_PHUONG": "",
+                                "TINH_TP": "",
+                                "LOAI_DIA_CHI": "HKTHUONGTRU"
+                            }
+                        ],
+                        "YC_DONGCN": 0
+                    },
+                    "TONG_NV_BAODAM": "1",
+                    "HDTC": "10",
+                    "HDTC_NGAY": "2023-06-28T00:00:00.000+07:00",
+                    "DK_PHONGTOA": 0,
+                    "TONG_NV_BAODAM_TSBD": 12000000000,
+                    "NV_BAODAM": "2",
+                    "STT": 1,
+                    "TT_DK_BPBD": {
+                        "HDBD_SO": "HĐTĐ số 1",
+                        "PTHUC_NHANKQ": "3",
+                        "DIEN_TU": "Điện tử 1",
+                        "YC_DK_HOTEN": "Nguyễn Thị Diễm Thuy",
+                        "SO_DANG_KY": "Số đăng ký 1",
+                        "YC_DK_SODT": "0917751275",
+                        "CQ_DK_BPBD": "cơ quan đăng ký 1",
+                        "THOIDIEM_HIEULUC": "2023-06-01T00:00:00.000+07:00",
+                        "YC_DK_BD": 1,
+                        "MASO_TK_DKTT": "TK ĐTTT 1",
+                        "YC_DK_NHANBD": 1
+                    },
+                    "DS_HDTD_SO": [
+                        {
+                            "NGAY": "30/05/2023",
+                            "SO": "123",
+                            "LOAI_HD": "Hợp đồng cụ thể số 1"
+                        },
+                        {
+                            "NGAY": "23/05/2023",
+                            "SO": "45612/05/2023",
+                            "LOAI_HD": "Hợp đồng cụ thể số 2"
+                        },
+                        {
+                            "NGAY": "12/06/2023",
+                            "SO": "789",
+                            "LOAI_HD": "Hợp đồng cụ thể số 3"
+                        }
+                    ],
+                    "DS_TV_GTCG": [],
+                    "DS_PTVT": [
+                        {
+                            "PHUONGTIEN": "1",
+                            "THOIHAN_HD": 3,
+                            "ID_TS": "PTVT1685595169820",
+                            "GIATRI": "10000000000",
+                            "GIA_TRI": 10000000000,
+                            "TEN_TS": "Vision",
+                            "HINHTHUC_SOHUU": "HTSHTS01",
+                            "GIAY_BNTC_SO": "00001",
+                            "MO_TA_PTVT": "",
+                            "PTVT_KHAC": [],
+                            "BAO_TRUOC_BEN_B": 2,
+                            "DEN_NGAY": "2023-06-15T00:00:00.000+07:00",
+                            "PTVT_DB": [
+                                {
+                                    "SO_KHUNG": "0998978781",
+                                    "YC_GIAY": 1,
+                                    "SO_MAY": "446546465",
+                                    "BIEN_SO": "64B1234",
+                                    "TEN_PTVT_MOTA": "Vision",
+                                    "CQ_TIEPNHAN": "",
+                                    "YC_DIENTU": 1
+                                }
+                            ],
+                            "SO_DK_PTVT": "46565675757",
+                            "TEN_CSH": "",
+                            "NGAY_CAP": "2023-06-01T00:00:00.000+07:00",
+                            "SOLAN_CAPLAI": "3",
+                            "NGAY_CAP_LAI": "2023-06-01T00:00:00.000+07:00",
+                            "TU_NGAY": "2023-06-20T00:00:00.000+07:00",
+                            "VANBANSO": "5",
+                            "NOI_CAP": "NCID280",
+                            "BB_DINHGIA_TS_NGAY": "2023-06-01T00:00:00.000+07:00",
+                            "CHUNG_TU": "Kèm theo thông tin liên lạc"
+                        }
+                    ],
+                    "LOAI_TSBD": "TSBD03",
+                    "DS_BDS": [],
+                    "DS_QTS": [],
+                    "TONG_NV_BAODAM_TIEN": 0,
+                    "HINHTHUC_SOHUU": "HTSHTS01",
+                    "TT_BEN_BD": {
+                        "TT_LIENLAC": [
+                            {
+                                "DIA_CHI_CUTHE": "17/23 DUONG SO 3,P. BINH HUNG HOA A, BINH TAN,.",
+                                "QUOC_GIA": "VNM",
+                                "TINH_TP": "79",
+                                "LOAI_DIA_CHI": "DCLIENHE"
+                            },
+                            {
+                                "DIA_CHI_CUTHE": "17/23 DUONG SO 3,P. BINH HUNG HOA A, BINH TAN,.",
+                                "QUOC_GIA": "VNM",
+                                "TINH_TP": "79",
+                                "LOAI_DIA_CHI": "HKTHUONGTRU"
+                            }
+                        ],
+                        "LOAIKH": 2,
+                        "TT_DINHDANH": [
+                            {
+                                "LOAI_ID": "THECCCD",
+                                "QG_CAP": "VNM",
+                                "NGAY_CAP": "2023-05-11T00:00:00.000+07:00",
+                                "SO_ID": "094080021370",
+                                "NOI_CAP": "NCID343"
+                            }
+                        ],
+                        "CHITIET_UYQUYEN": "Do Ông/ Bà ......, căn cước công dân số ...... cấp tại ...... (chứng minh nhân dân cũ số ...... cấp tại ......) đại diện cho Ông/ Bà ......, chứng minh nhân dân số ...... cấp tại ...... và Ông/ Bà ......, chứng minh nhân dân số ...... cấp tại ...... theo Hợp đồng ủy quyền được công chứng tại Văn phòng Công chứng ..., Thành phố Hà Nội ngày ..., số công chứng ... và được công chứng tại Văn phòng Công chứng ..., TP Hồ Chí Minh ngày ..., số công chứng ....Ông/ Bà ...... cam kết Hợp đồng ủy quyền này chưa chấm dứt theo quy định của pháp luật, nếu sau này phát hiện sai hoặc có tranh chấp, khiếu nại, Ông/bà...... xin chịu trách nhiệm.",
+                        "TT_NGUOIHONPHOI": {
+                            "TT_LIENLAC": [
+                                {
+                                    "DIA_CHI_CUTHE": "184/10 LUU HUU PHUOCF15,Q8.",
+                                    "QUOC_GIA": "VNM",
+                                    "QUAN_HUYEN": "776",
+                                    "XA_PHUONG": "27427",
+                                    "TINH_TP": "79",
+                                    "LOAI_DIA_CHI": "DCLIENHE"
+                                },
+                                {
+                                    "DIA_CHI_CUTHE": "184/10 LUU HUU PHUOCF15,Q8.",
+                                    "QUOC_GIA": "VNM",
+                                    "QUAN_HUYEN": "776",
+                                    "XA_PHUONG": "27427",
+                                    "TINH_TP": "79",
+                                    "LOAI_DIA_CHI": "HKTHUONGTRU"
+                                }
+                            ],
+                            "CIF": "100529330",
+                            "TEN_KH_CODAU": "PHAM TAN KIET",
+                            "TEN_KH_CORE": "PHAM TAN KIET",
+                            "SO_DT": "0766667079",
+                            "TT_DINHDANH": [
+                                {
+                                    "LOAI_ID": "THECCCD",
+                                    "QG_CAP": "VNM",
+                                    "NGAY_CAP": "2022-08-12T00:00:00.000+07:00",
+                                    "SO_ID": "087069009164",
+                                    "NOI_CAP": "NCID343"
+                                }
+                            ],
+                            "ONG_BA": "BA",
+                            "NGAY_SINH": "1971-06-12T01:00:00.000+08:00"
+                        },
+                        "UYQUYEN_KY_HS": 1,
+                        "DS_DONGSOHUU": [],
+                        "LOAI_KH": "CN",
+                        "KH_CN": {
+                            "CIF": "100173777",
+                            "TEN_KH_CODAU": "LA KIM VI",
+                            "NAM_SINH": "1980-06-02T00:00:00.000+07:00",
+                            "TEN_KH_CORE": "LA KIM VI",
+                            "SO_DT": "0908461585",
+                            "ONG_BA": "ONG"
+                        },
+                        "DONG_SO_HUU": 0,
+                        "KH_DN": {
+                            "DAIDIEN_KH": "",
+                            "CIF": "100173777",
+                            "TEN_KH_CODAU": "LA KIM VI",
+                            "DIACHI": "",
+                            "SO_DT": "0908461585",
+                            "CHUC_VU": "",
+                            "MASO_DN": "",
+                            "ONG_BA": "ONG",
+                            "NOI_CAP": "",
+                            "NGDAIDIEN_KYHD": ""
+                        },
+                        "YC_NGUOIHONPHOI": 1
+                    },
+                    "DK_BPBD": 1,
+                    "DS_HOSO_GIAONHAN": [
+                        {
+                            "TEN_HOSO": "Tên hồ sơ 1",
+                            "NGAY_CAP": "2023-06-01T00:00:00.000+07:00",
+                            "SO_TRANG": 1,
+                            "COQUAN_CAP": "Cơ quan cấp 1",
+                            "BAN_CHINH": "2",
+                            "SO": "Số 001",
+                            "BAN_SAO": "4"
+                        },
+                        {
+                            "TEN_HOSO": "Tên hồ sơ 2",
+                            "NGAY_CAP": "2023-05-16T00:00:00.000+07:00",
+                            "SO_TRANG": 2,
+                            "COQUAN_CAP": "Cơ quan cấp 2",
+                            "BAN_CHINH": "4",
+                            "SO": "Số 002",
+                            "BAN_SAO": "5"
+                        }
+                    ],
+                    "DK_CONGCHUNG": 0,
+                    "KHONGTHUCHIEN_DK": 0
+                },
+                {
+                    "TT_LUUGIU_HD": {
+                        "BQL_CHO": 1,
+                        "EXIM": 1,
+                        "KHACHHANG": 1,
+                        "TCCC_UBND": 1,
+                        "CQDK": 1,
+                        "TONGSO_HD": 4
+                    },
+                    "ID_HD": "ST1685524552936",
+                    "TT_BEN_CN": {
+                        "TT_DONGCN": {
+                            "TT_LIENLAC": [
+                                {
+                                    "DIA_CHI_CUTHE": "",
+                                    "QUOC_GIA": "VNM",
+                                    "QUAN_HUYEN": "",
+                                    "XA_PHUONG": "",
+                                    "TINH_TP": "",
+                                    "LOAI_DIA_CHI": "DCLIENHE"
+                                },
+                                {
+                                    "DIA_CHI_CUTHE": "",
+                                    "QUOC_GIA": "VNM",
+                                    "QUAN_HUYEN": "",
+                                    "XA_PHUONG": "",
+                                    "TINH_TP": "",
+                                    "LOAI_DIA_CHI": "HKTHUONGTRU"
+                                }
+                            ],
+                            "TT_DINHDANH": [
+                                {
+                                    "LOAI_ID": "CMND",
+                                    "QG_CAP": "VNM"
+                                }
+                            ]
+                        },
+                        "TT_DINHDANH": [
+                            {
+                                "LOAI_ID": "CMND",
+                                "QG_CAP": "VNM"
+                            }
+                        ],
+                        "TT_LIENLAC": [
+                            {
+                                "DIA_CHI_CUTHE": "",
+                                "QUOC_GIA": "VNM",
+                                "QUAN_HUYEN": "",
+                                "XA_PHUONG": "",
+                                "TINH_TP": "",
+                                "LOAI_DIA_CHI": "DCLIENHE"
+                            },
+                            {
+                                "DIA_CHI_CUTHE": "",
+                                "QUOC_GIA": "VNM",
+                                "QUAN_HUYEN": "",
+                                "XA_PHUONG": "",
+                                "TINH_TP": "",
+                                "LOAI_DIA_CHI": "HKTHUONGTRU"
+                            }
+                        ],
+                        "YC_DONGCN": 0
+                    },
+                    "TONG_NV_BAODAM": "2",
+                    "HDTC": "10",
+                    "HDTC_NGAY": "2023-06-07T00:00:00.000+07:00",
+                    "DK_PHONGTOA": 0,
+                    "TONG_NV_BAODAM_TSBD": 5000000,
+                    "NV_BAODAM": "1",
+                    "STT": 2,
+                    "TT_DK_BPBD": {
+                        "PTHUC_NHANKQ": "3",
+                        "YC_DK_BD": 0,
+                        "YC_DK_NHANBD": 0
+                    },
+                    "DS_HDTD_SO": [
+                        {
+                            "NGAY": "",
+                            "SO": "",
+                            "LOAI_HD": ""
+                        }
+                    ],
+                    "DS_TV_GTCG": [],
+                    "DS_PTVT": [
+                        {
+                            "PHUONGTIEN": "2",
+                            "THOIHAN_HD": 2,
+                            "ID_TS": "PTVT1685602976892",
+                            "GIATRI": "120000000",
+                            "GIA_TRI": 120000000,
+                            "TEN_TS": "Tàu cá của Thúy, Tàu cá của Bưởi",
+                            "HINHTHUC_SOHUU": "HTSHTS02",
+                            "GIAY_BNTC_SO": "ff3456gf",
+                            "MO_TA_PTVT": "",
+                            "PTVT_KHAC": [
+                                {
+                                    "YC_GIAY": 1,
+                                    "CAP_PHUONG_TIEN": "1",
+                                    "CHU_SH": "Thuyntd",
+                                    "TEN_PTVT_MOTA": "Tàu cá của Thúy",
+                                    "CQ_TIEPNHAN": "Cơ quan 1",
+                                    "SO_DANG_KY": "123456",
+                                    "YC_DIENTU": 1
+                                },
+                                {
+                                    "YC_GIAY": 1,
+                                    "CAP_PHUONG_TIEN": "2",
+                                    "CHU_SH": "Phunv",
+                                    "TEN_PTVT_MOTA": "Tàu cá của Bưởi",
+                                    "CQ_TIEPNHAN": "Cơ quan2",
+                                    "SO_DANG_KY": "789098",
+                                    "YC_DIENTU": 1
+                                }
+                            ],
+                            "BAO_TRUOC_BEN_B": 12,
+                            "DEN_NGAY": "2023-06-12T00:00:00.000+07:00",
+                            "PTVT_DB": [],
+                            "SO_DK_PTVT": "Số đăng ký 2",
+                            "TEN_CSH": "",
+                            "NGAY_CAP": "2023-06-01T00:00:00.000+07:00",
+                            "SOLAN_CAPLAI": "5",
+                            "NGAY_CAP_LAI": "2023-04-23T00:00:00.000+07:00",
+                            "TU_NGAY": "2023-06-13T00:00:00.000+07:00",
+                            "VANBANSO": "gggggg",
+                            "NOI_CAP": "NCID275",
+                            "BB_DINHGIA_TS_NGAY": "1998-04-23T00:00:00.000+07:00",
+                            "CHUNG_TU": "Kèm theo hợp đồng số 1"
+                        }
+                    ],
+                    "LOAI_TSBD": "TSBD03",
+                    "DS_BDS": [],
+                    "DS_QTS": [],
+                    "TONG_NV_BAODAM_TIEN": 5000000,
+                    "HINHTHUC_SOHUU": "HTSHTS02",
+                    "TT_BEN_BD": {
+                        "TT_LIENLAC": [
+                            {
+                                "DIA_CHI_CUTHE": "",
+                                "QUOC_GIA": "VNM",
+                                "QUAN_HUYEN": "",
+                                "XA_PHUONG": "",
+                                "TINH_TP": "",
+                                "LOAI_DIA_CHI": "DCLIENHE"
+                            },
+                            {
+                                "DIA_CHI_CUTHE": "",
+                                "QUOC_GIA": "VNM",
+                                "QUAN_HUYEN": "",
+                                "XA_PHUONG": "",
+                                "TINH_TP": "",
+                                "LOAI_DIA_CHI": "HKTHUONGTRU"
+                            }
+                        ],
+                        "TT_DINHDANH": [
+                            {
+                                "LOAI_ID": "CMND",
+                                "QG_CAP": "VNM"
+                            }
+                        ],
+                        "CHITIET_UYQUYEN": "Do Ông/ Bà Nguyễn Acăn cước công dân số ...... cấp tại ...... (chứng minh nhân dân cũ số ...... cấp tại ......) đại diện cho Ông/ Bà ......, chứng minh nhân dân số ...... cấp tại ...... và Ông/ Bà ......, chứng minh nhân dân số ...... cấp tại ...... theo Hợp đồng ủy quyền được công chứng tại Văn phòng Công chứng ..., Thành phố Hà Nội ngày ..., số công chứng ... và được công chứng tại Văn phòng Công chứng ..., TP Hồ Chí Minh ngày ..., số công chứng ....Ông/ Bà ...... cam kết Hợp đồng ủy quyền này chưa chấm dứt theo quy định của pháp luật, nếu sau này phát hiện sai hoặc có tranh chấp, khiếu nại, Ông/bàNguyễn Bxin chịu trách nhiệm.",
+                        "TT_NGUOIHONPHOI": {
+                            "TT_LIENLAC": [
+                                {
+                                    "DIA_CHI_CUTHE": "203 KP3,P.BINH HUNG HOA A, BINH TAN -TPHCM",
+                                    "QUOC_GIA": "VNM",
+                                    "QUAN_HUYEN": "777",
+                                    "XA_PHUONG": "27439",
+                                    "TINH_TP": "79",
+                                    "LOAI_DIA_CHI": "DCLIENHE"
+                                },
+                                {
+                                    "DIA_CHI_CUTHE": "203 KP3,P.BINH HUNG HOA A, BINH TAN -TPHCM",
+                                    "QUOC_GIA": "VNM",
+                                    "QUAN_HUYEN": "777",
+                                    "XA_PHUONG": "27439",
+                                    "TINH_TP": "79",
+                                    "LOAI_DIA_CHI": "HKTHUONGTRU"
+                                }
+                            ],
+                            "CIF": "101892708",
+                            "TEN_KH_CODAU": "NGUYEN THI KIM YEN",
+                            "TEN_KH_CORE": "NGUYEN THI KIM YEN",
+                            "SO_DT": "0909228687",
+                            "TT_DINHDANH": [
+                                {
+                                    "LOAI_ID": "THECCCD",
+                                    "QG_CAP": "VNM",
+                                    "NGAY_CAP": "2020-07-07T00:00:00.000+07:00",
+                                    "SO_ID": "079186012077",
+                                    "NOI_CAP": "NCID342"
+                                }
+                            ],
+                            "ONG_BA": "BA",
+                            "NGAY_SINH": "1986-04-01T00:00:00.000+07:00"
+                        },
+                        "UYQUYEN_KY_HS": 1,
+                        "DS_DONGSOHUU": [],
+                        "LOAI_KH": "CN",
+                        "KH_CN": {},
+                        "DONG_SO_HUU": 0,
+                        "KH_DN": {},
+                        "YC_NGUOIHONPHOI": 1
+                    },
+                    "DK_BPBD": 0,
+                    "DS_HOSO_GIAONHAN": [
+                        {
+                            "TEN_HOSO": "Tên hồ sơ 1",
+                            "NGAY_CAP": "2023-06-01T00:00:00.000+07:00",
+                            "SO_TRANG": 2,
+                            "COQUAN_CAP": "Cơ quan cấp 1",
+                            "BAN_CHINH": "Bản chính 3",
+                            "SO": "Số 1 ",
+                            "BAN_SAO": "5"
+                        },
+                        {
+                            "TEN_HOSO": "Thúy ",
+                            "NGAY_CAP": "2023-06-01T00:00:00.000+07:00",
+                            "SO_TRANG": 4,
+                            "COQUAN_CAP": "Cơ quan cấp 2",
+                            "BAN_CHINH": "Bản chính 4",
+                            "SO": "Số 2",
+                            "BAN_SAO": "6"
+                        }
+                    ],
+                    "DK_CONGCHUNG": 0,
+                    "KHONGTHUCHIEN_DK": 0
+                }
+            ],
+            "TONGSOTIEN_DENGHI": 12055000000,
+            "TT_CTD_KH": {
+                "DAIDIEN_KH": "",
+                "CIF": "100173777",
+                "SDT": "0908461585",
+                "TT_DINHDANH": [
+                    {
+                        "LOAI_ID": "THECCCD",
+                        "QG_CAP": "VNM",
+                        "NGAY_CAP": "2023-05-11T00:00:00.000+07:00",
+                        "SO_ID": "094080021370",
+                        "NOI_CAP": "NCID343"
+                    }
+                ],
+                "CHUC_VU": "",
+                "MA_DN": "",
+                "BEN_UY_QUYEN": 0,
+                "ONG_BA": "ONG",
+                "LOAI_KH": "CN",
+                "NGDAIDIEN_KYHD": "",
+                "DIACHI_TRUSO": "",
+                "TT_LIENLAC": [
+                    {
+                        "DIA_CHI_CUTHE": "17/23 DUONG SO 3,P. BINH HUNG HOA A, BINH TAN,.",
+                        "QUOC_GIA": "VNM",
+                        "QUAN_HUYEN": "777",
+                        "XA_PHUONG": "27439",
+                        "TINH_TP": "79",
+                        "LOAI_DIA_CHI": "DCLIENHE"
+                    },
+                    {
+                        "DIA_CHI_CUTHE": "17/23 DUONG SO 3,P. BINH HUNG HOA A, BINH TAN,.",
+                        "QUOC_GIA": "VNM",
+                        "QUAN_HUYEN": "777",
+                        "XA_PHUONG": "27439",
+                        "TINH_TP": "79",
+                        "LOAI_DIA_CHI": "HKTHUONGTRU"
+                    }
+                ],
+                "CT_UY_QUYEN": "",
+                "TEN_KH_CODAU": "LA KIM VI",
+                "TEN_KH_CORE": "LA KIM VI",
+                "TT_VC_KH": {
+                    "CIF": "100402714",
+                    "BEN_UQ": 1,
+                    "CT_YQ": "Bên được cấp tín dụng/Bên vay đồng ý rằng, chỉ cần một bên là Ông ... (ghi rõ họ, tên, năm sinh, địa chỉ, CMND/ CCCD) hoặc một bên là Bà ... (ghi rõ họ, tên, năm sinh, địa chỉ, CMND/ CCCD) đại diện ký tên trên các Khế ước nhận nợ phát sinh theo Hợp đồng này thì cũng được xem là đại diện của Bên được cấp tín dụng mà không cần phải có đầy đủ chữ ký của (các) Bên được cấp tín dụng và Bên được cấp tín dụng không khước từ nghĩa vụ của mình đối với các Khế ước nhận nợ phát sinh do Ông ... hoặc Bà ... ký kết với Eximbank.",
+                    "TEN_KH_CODAU": "TU THANH NHON",
+                    "SDT": "0913164841",
+                    "TT_DIACHI": [
+                        {
+                            "DIA_CHI_CUTHE": "793/54/1/26A TRAN XUAN SOAN,P.TAN HUNG, Q.7,.",
+                            "QUOC_GIA": "VNM",
+                            "QUAN_HUYEN": "778",
+                            "XA_PHUONG": "27475",
+                            "TINH_TP": "79",
+                            "LOAI_DIA_CHI": "DCLIENHE"
+                        },
+                        {
+                            "DIA_CHI_CUTHE": "793/54/1/26A TRAN XUAN SOAN,P.TAN HUNG, Q.7,.",
+                            "QUOC_GIA": "VNM",
+                            "QUAN_HUYEN": "778",
+                            "XA_PHUONG": "27475",
+                            "TINH_TP": "79",
+                            "LOAI_DIA_CHI": "HKTHUONGTRU"
+                        }
+                    ],
+                    "TEN_KH_CORE": "TU THANH NHON",
+                    "TT_DINHDANH": [
+                        {
+                            "LOAI_ID": "THECCCD",
+                            "QG_CAP": "VNM",
+                            "NGAY_CAP": "2022-09-12T00:00:00.000+07:00",
+                            "SO_ID": "079061009127",
+                            "NOI_CAP": "NCID343"
+                        }
+                    ],
+                    "ONG_BA": "ONG",
+                    "NGAY_SINH": "1962-06-06T01:00:00.000+08:00"
+                },
+                "CUSTOMER_CODE": "",
+                "NGAY_SINH": "1980-06-02T00:00:00.000+07:00",
+                "NOI_CAP": ""
+            },
+            "LUONG_NTIEP": {
+                "XUAT_MUON": 0,
+                "XUAT_TRA": 0,
+                "NHAP_KHO": 0,
+                "YC_KHAC": 0,
+                "DX_GIAINGAN": 0,
+                "YC_SOANTHAO": 0
+            },
+            "DS_TV_GTCG": [],
+            "DS_BDS": [],
+            "DS_PTVT": [],
+            "TT_CTD_EXIM": {
+                "CHUCVU": "Phó Giám đốc",
+                "DIACHI": "114-116 Phan Bội Châu, P.Thống Nhất, Tp.Buôn Ma Thuột, tỉnh Đăklăk / T.Đắk Lắk / P.Tân Lập / P.Tân Lập",
+                "NGUOI_DAIDIEN": "NGUYỄN THỊ KIM NHUNG",
+                "TT_DINHDANH": [
+                    {
+                        "LOAI_ID": "CMND",
+                        "QG_CAP": "VNM",
+                        "NGAY_CAP": "2023-05-17T00:00:00.000+07:00",
+                        "SO_ID": "2345678234567",
+                        "NOI_CAP": "NCID294"
+                    }
+                ],
+                "NGAYCAP": "2020-07-15T00:00:00.000+07:00",
+                "DVKD": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+                "SO_DIENTHOAI": "02623934545",
+                "ONG_BA": "BA",
+                "NGUOI_CAP": "Phó giám đốc",
+                "MASO_DN": "0301179079-022",
+                "NGAYCAP_UYQUYEN": "28/4/2023",
+                "NOICAP": "Sở KH & ĐT tỉnh Đắk Lắk",
+                "GIAY_UYQUYEN": " User_test 1"
+            },
+            "TT_YC_HDTINDUNG": [
+                {
+                    "TLKQ_HANGHOA": [],
+                    "DK_NGHIAVU_BL": "kèm theo tài liệu, chứng từ xác nhận Bên được bảo lãnh đã không thực hiện đúng điều khoản thanh toán của Hợp đồng, bao gồm:…… (Trong trường hợp khách hàng đề nghị bỏ cụm từ “kèm theo tài liệu, chứng từ xác nhận Bên được bảo lãnh đã không thực hiện đúng điều khoản thanh toán của Hợp đồng” thì thay thế bằng cụm từ “mà không cần kèm theo bất cứ tài liệu, chứng từ chứng minh nào khác)",
+                    "CHUNGTU_BOSUNG": 0,
+                    "SOLUONG_HD": 4,
+                    "LOAI_HD": "LOAIHDTD01",
+                    "CUTHE_NGAYHET_HL": 0,
+                    "MUCDICH_SD_VON": [
+                        {
+                            "CODE_1": "",
+                            "CODE_6": "",
+                            "CODE_3": "",
+                            "CODE_2": "",
+                            "CODE_5": "",
+                            "CODE_4": ""
+                        }
+                    ],
+                    "KY_CACHNHAU": 0,
+                    "LOAI_YC_PHAT": "2",
+                    "VAYTUNGLAN": {
+                        "THOIHAN_CHOVAY_THANG": 0,
+                        "THOIHAN_CHOVAY_NGAY": 0
+                    },
+                    "TTD_TRANGAY": 0,
+                    "NGONNGU_BL": "Tiếng Việt",
+                    "SONGAY": 0,
+                    "QUYDINH_PHIKHAC": "Quy định sản phẩm",
+                    "TYGIA": 1,
+                    "SOTIEN_QUYDOI": 50000000,
+                    "CUTHE_NGAYHET_HL_MOTA": "2023-05-31T16:16:43.000+07:00",
+                    "PHI_RUTVON_QUYDINH": 100,
+                    "MOTA_TSBD": "a) Số tiền trên tài khoản của khách hàng      , tương đương       % số tiền bảo lãnh; và (hoặc) b) [mô tả: loại tài sản, địa chỉ tài sản, thuộc sở hữu của ai]",
+                    "VAYHANMUC": {
+                        "THOIHAN_CHOVAY_THANG": 0,
+                        "THOIHAN_DUYTRI": "2023-05-31T16:16:43.000+07:00",
+                        "THOIHAN_CHOVAY_NGAY": 0
+                    },
+                    "HD_TCCC": 1,
+                    "HD_EXIM": 1,
+                    "PHUONGTHUC": "HANMUC",
+                    "PHI_KHAC": 1,
+                    "TIEN_VANG_GTCG": 0,
+                    "VAYTUNGLAN_GN1LAN": {
+                        "LAI_SUAT": "Theo quy định của Eximbank",
+                        "THOIHAN_GN_DT": 0,
+                        "THOIHAN_GN_DT_CT": "Thời hạn giải ngân đầu tiên: Tối đa đến hết ngày .................."
+                    },
+                    "NGTAC_THUNOGOC_TH": "3",
+                    "PHI_RUTVON_KHAC": 0,
+                    "HINHTHUC_GIAINGAN": "",
+                    "MUCDICH_CTD": "mục đích 1",
+                    "TRA_MOI_KY": 0,
+                    "ID_HD": "ST1685524237427",
+                    "CHUNGTU_CUNGCAP": 0,
+                    "TGT_TS_TT": 10000000,
+                    "HD_KH": 1,
+                    "NGAY_HH_SU_KIEN": 0,
+                    "PHUONGTHUC_PHAT": "2",
+                    "SOTIEN_GIAINGAN_TM": 0,
+                    "MOTA": "mô tả 1",
+                    "TT_DINHDANH_NTH": [
+                        {
+                            "LOAI_ID": "THECCCD",
+                            "QG_CAP": "VNM",
+                            "NGAY_CAP": "2023-05-11T00:00:00.000+07:00",
+                            "SO_ID": "094080021370",
+                            "NOI_CAP": "NCID343"
+                        }
+                    ],
+                    "LOAITIEN": "VND",
+                    "SOTIEN_CTD": 50000000,
+                    "DS_TIEN_VANG_GTCG": [],
+                    "PHATTRUOC_HAN": 1,
+                    "TTD_TRACHAM": 0,
+                    "NGAY_HH_SU_KIEN_MOTA": "",
+                    "NGAY_HH_CU_THE": 0,
+                    "TRAKY_DAUTIEN": "2023-05-31T16:16:43.000+07:00",
+                    "TYLE_KYQUY": 0,
+                    "QUYDINH_PHI": 1,
+                    "HD_CQDK": 1,
+                    "LOAI_PHI": "1",
+                    "DS_PTHUC_CHUYENKHOAN": [],
+                    "PHI_CAMKET_RUTVON": 1
+                }
+            ],
+            "TT_BEN_BD": {
+                "TT_LIENLAC": [],
+                "LOAIKH": 0,
+                "TT_DINHDANH": [],
+                "CHITIET_UYQUYEN": "",
+                "TT_NGUOIHONPHOI": {
+                    "TT_LIENLAC": [],
+                    "CIF": "",
+                    "TEN_KH_CODAU": "",
+                    "ID_KH": "",
+                    "TEN_KH_CORE": "",
+                    "SO_DT": "",
+                    "TT_DINHDANH": [],
+                    "SO_ID": "",
+                    "ONG_BA": ""
+                },
+                "UYQUYEN_KY_HS": 0,
+                "DS_DONGSOHUU": [],
+                "LOAI_KH": "CN",
+                "KH_CN": {
+                    "CIF": "",
+                    "TEN_KH_CODAU": "",
+                    "TEN_KH_CORE": "",
+                    "SO_DT": "",
+                    "EMAIL": "",
+                    "ONG_BA": ""
+                },
+                "DONG_SO_HUU": 0,
+                "KH_DN": {
+                    "DAIDIEN_KH": "",
+                    "CIF": "",
+                    "TEN_KH_CODAU": "",
+                    "DIACHI": "",
+                    "SO_DT": "",
+                    "CHUC_VU": "",
+                    "MASO_DN": "",
+                    "ONG_BA": "",
+                    "NOI_CAP": "",
+                    "NGDAIDIEN_KYHD": ""
+                },
+                "YC_NGUOIHONPHOI": 0
+            }
+        }
+    },
+    "env": {
+        "GENDOC_URL": "http://10.1.45.79:9000/api/documentExport"
+    },
+    "userInfo": {
+        "teamName": "",
+        "deptName": "",
+        "dept_type_code": "",
+        "limit_code": "GROUP05",
+        "certificate": "",
+        "otherUnitCode": 0,
+        "title": "",
+        "userCode": "BOM_DVKD_1208_01",
+        "unitType": "",
+        "tier": "TIER05",
+        "dept_type_name": "",
+        "unitCode": 0,
+        "limit": 0,
+        "id": 9755,
+        "certificateBy": "",
+        "title_name": "",
+        "MaDoanhNghiep": "0301179079-022",
+        "powerAttorney": "",
+        "email": "khuongn@hpt.vn",
+        "groupCode": "GR_BOM_DVKD_1208",
+        "branchId": 0,
+        "unitName": "",
+        "keyLevel": 0,
+        "branchName": "Chi nhánh Đắk Lắk -Phòng giao dịch Nguyễn Tất Thành",
+        "fullName": "Cán bộ Hỗ trợ tín dụng Đơn vị kinh doanh_01",
+        "role_code": "BOM_DVKD",
+        "bo_tt": "2",
+        "userName": "BOM_DVKD_1208_01",
+        "branch_Level": "PGD",
+        "NoiCap": "Sở KH & ĐT tỉnh Đắk Lắk",
+        "branchCode": "1208",
+        "role_name": "Cán bộ Hỗ trợ tín dụng Đơn vị kinh doanh",
+        "title_code": "",
+        "bds": "",
+        "op1": "",
+        "phone": "02623934545",
+        "fullAddress": "114-116 Phan Bội Châu, P.Thống Nhất, Tp.Buôn Ma Thuột, tỉnh Đăklăk / T.Đắk Lắk / P.Tân Lập / P.Tân Lập",
+        "NgayCap": "2020-07-15T00:00:00.000+07:00",
+        "PROVINCE": "66",
+        "position": "",
+        "representativeName": "",
+        "deptCode": ""
+    },
+    "dependentRequired": "{\"DIR\":\"#.TT_DENGHI.TT_YC_HDTSBD\",\"ID_HOPDONG\":\"ST1685524474844\",\"CODE_PROPERTY\":\"PTVT1685595169820\"}"
+}
